@@ -1,0 +1,1364 @@
+dataset_name,entity_id,group_id,file_name,sample_index,target,predicted_relative_capacity
+CALCE,SP20-1,SP20-1,02_24_2016_SP20-1_0C_lowcurrentOCV.xls,0,0.8723990508776358,0.8723399116041803
+CALCE,SP20-1,SP20-1,02_26_2016_SP20-1_0C_incrementalOCV.xls,1,0.8358224915126726,0.822547296472854
+CALCE,SP20-1,SP20-1,10_16_2015_Initial capacity_SP20-1.xlsx,2,0.931522961218778,0.9314445808399404
+CALCE,SP20-1,SP20-1,11_5_2015_low current OCV test_SP20-1.xlsx,3,1.0,1.000185534514096
+CALCE,SP20-1,SP20-1,12_2_2015_Incremental OCV test_SP20-1.xlsx,4,0.9201079291705436,0.9223097463826846
+CALCE,SP20-1,SP20-1,11_21_2015_low current OCV test_SP20-1.xlsx,5,0.9375496961499796,0.9375862830737414
+CALCE,SP20-1,SP20-1,12_09_2015_Incremental OCV test_SP20-1.xlsx,6,0.9257706497435736,0.9255251068088832
+CALCE,SP20-3,SP20-3,03_03_2016_SP20-3_0C_lowcurrentOCV.xls,0,0.872032854760857,0.8720324373916006
+CALCE,SP20-3,SP20-3,03_09_2016_SP20-3_0C_incrementalOCV.xls,1,0.8242650137326616,0.8349954229152963
+CALCE,SP20-3,SP20-3,10_16_2015_Initial capacity_SP20-3.xls,2,0.924764603069849,0.9247769215957636
+CALCE,SP20-3,SP20-3,11_16_2015_low current OCV test_SP20-3.xls,3,0.9729029470244354,0.972902952059602
+CALCE,SP20-3,SP20-3,12_2_2015_Incremental OCV test_SP20-3.xlsx,4,0.932216666996058,0.928970533066646
+CALCE,SP20-3,SP20-3,11_21_2015_low current OCV test_SP20-3_samallcurrent.xlsx,5,1.0,0.9999855260981624
+CALCE,SP20-3,SP20-3,12_09_2015_Incremental OCV test_SP20-3.xlsx,6,0.9342109885946208,0.9340711373981576
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,0,1.0,0.9999263616114042
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,1,1.0041604942162827,1.0039928816519683
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,2,0.9982034229520598,0.9980828719472672
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,3,0.9926245784347718,0.9925292812323132
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,4,1.0525735178239355,1.0521647306482096
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,5,0.980363728054969,0.980127504017131
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,6,0.9839568821508494,0.9837926211648484
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,7,0.976865130645822,0.9766924186223004
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,8,0.9734610899234092,0.9733034284000188
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,9,1.0331263592523718,1.0327170346275183
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,10,0.962587070949034,0.9623750082316588
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,11,0.9665269328962712,0.9663027721320464
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,12,0.9603492293630032,0.9601681278965956
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,13,0.9566930374759668,0.9564766415125168
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,14,1.0128597093957827,1.0124983228710254
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,15,0.9467015475777728,0.946525580538682
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,16,0.9515554574967694,0.9514606550042404
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,17,0.9447788949475212,0.9445550138544012
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,18,0.9433920635420936,0.9432395388162128
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,19,0.997194818293567,0.9968000014476252
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,20,0.9328647524190752,0.9326762884126292
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,21,0.937907775711539,0.937727791456104
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,22,0.9316039965959594,0.9314645098055724
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,23,0.9297128628612854,0.9296321760195008
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,24,0.9817820783559744,0.9815007712164832
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,25,0.9202571941879156,0.9201534120300036
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,26,0.9252686985848017,0.9250920110786438
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,27,0.9196898540675136,0.9195133966635956
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,28,0.9177356825416838,0.9176040336454138
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,29,0.9685441422132568,0.968400861883386
+LG,Highly dynamic operation dataset::03_LFMH #2,Highly dynamic operation dataset::03_LFMH #2,03_LFMH #2.csv,30,0.9066725501938412,0.9065352265917112
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,31,1.0,0.9999497415828604
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,32,1.003215535449702,1.0031851145919437
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,33,1.0711831278963462,1.0710752213054788
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,34,0.996973613694398,0.996820186601272
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,35,0.9946092493931464,0.994354401659706
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,36,0.9977932599854984,0.9975280645653808
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,37,0.9941994262475964,0.9940912960168
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,38,1.0534976829229847,1.0530986048271922
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,39,0.9831026764603892,0.9829167860267064
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,40,0.9812742347340878,0.9811062743839776
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,41,0.9835440244632891,0.983356490740686
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,42,0.9804230635856372,0.9802367422453664
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,43,1.0393745468301756,1.0389928702525766
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,44,0.9724472746760822,0.97229848326124
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,45,0.9693893635131302,0.9692334154909348
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,46,0.972289650389332,0.9720729826071424
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,47,0.9694524132278304,0.9693040665725988
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,48,1.0281516976135685,1.027808572556764
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,49,0.9612559503168248,0.9611018019472284
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,50,0.9595851328772736,0.95944456333392
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,51,0.9623593203240756,0.9622143150225372
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,52,0.9592068345890736,0.9590819814260432
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,53,1.0186942404085622,1.0182504716884444
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,54,0.9517354433971188,0.9516307711941028
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,55,0.950663598247218,0.9505904977838632
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,56,0.9529964376911196,0.9528885717512356
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,57,0.950978846820718,0.9509004946440482
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,58,1.0100879543520065,1.0099531993579538
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,59,0.9435389804861132,0.9434499951777054
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,60,0.9418681630465622,0.9418367446337648
+LG,Highly dynamic operation dataset::12_MHFL #4,Highly dynamic operation dataset::12_MHFL #4,12_MHFL #4.csv,61,0.944673875350714,0.9445419015399816
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,62,1.0,1.000246455909799
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,63,1.00024964114086,1.0005399054989947
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,64,0.9956624851775572,0.9959443987708964
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,65,0.9921987143481246,0.9925227517938684
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,66,0.9863945578231292,0.9867298836614268
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,67,0.9794358110216564,0.9797628653415784
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,68,0.9703863196654808,0.9707802727520192
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,69,0.964051675716158,0.9643450545246918
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,70,0.9605566997441176,0.9608623392487124
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,71,0.95328590151657,0.9535504769178365
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,72,0.9483242838419772,0.9486581871655196
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,73,0.943269050739562,0.9436744546601188
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,74,0.938369843350184,0.9387309927796326
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,75,0.9979404605879048,0.9982325604714622
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,76,0.9293203519940084,0.9296893430579948
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,77,0.991793047494227,0.9920880888568856
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,78,0.9199900143543656,0.9203560759262632
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,79,0.9825563252824064,0.982783638049289
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,80,0.91119016413905,0.9114990961053848
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,81,0.9746614242027086,0.9750924096489848
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,82,0.9014541596455096,0.9017980709430145
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,83,0.9667353179804032,0.967164539349781
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,84,0.891905386007614,0.8921858127962027
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,85,0.9584971603320228,0.9589918308260144
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,86,0.8841041003557386,0.8843746798856793
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,87,0.8866005117643387,0.886822582816173
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,88,0.8819821506584284,0.8822901420693198
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,89,0.8781127129750983,0.8784387053482028
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,90,0.8699993758971477,0.870227074355958
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,91,0.8602321662609997,0.860451776110758
+LG,Path-dependent degradation dataset::02_LMHF #3,Path-dependent degradation dataset::02_LMHF #3,02_LMHF #3.csv,92,0.8300255882169381,0.8302267963973847
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,93,1.0,1.0001868831401173
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,94,1.0013729834305862,1.001585989116665
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,95,0.9974100539832124,0.997582346206684
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,96,0.994320841264393,0.9945149038527288
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,97,0.9894841950884636,0.989683534066566
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,98,0.9842106905482572,0.9844504885050552
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,99,0.9775017942397104,0.9777494070628472
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,100,0.9714793896464567,0.9716699451566732
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,101,0.9657066184042188,0.9658846220506042
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,102,0.959809030486473,0.9600025136420564
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,103,0.9544419134396356,0.9546076977398916
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,104,0.948294692170874,0.948507627297328
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,105,0.9428339626174056,0.9430577639946114
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,106,0.944238150216869,0.9444144452016536
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,107,0.944238150216869,0.9445231930722556
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,108,0.9415545916934502,0.9417438808340902
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,109,0.937778887259338,0.9380157614821972
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,110,0.9347520828782726,0.9349375324978318
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,111,0.9307579492620216,0.9309280351182206
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,112,0.9854276531344588,0.9859345922770416
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,113,0.9258276905794616,0.9260324886819664
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,114,0.9816207445314694,0.9821683537547792
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,115,0.91793303585359,0.9181293230648068
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,116,0.9740693356632446,0.9746174730687333
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,117,0.9091646643991638,0.9093339427700592
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,118,0.96548818922208,0.9662583594487528
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,119,0.9025493805972478,0.9028296172552508
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,120,0.958280026211502,0.9587727575399912
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,121,0.8950603800667769,0.8953343772496936
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,122,0.9534745842044496,0.9541448682615076
+LG,Path-dependent degradation dataset::03_LFMH #3,Path-dependent degradation dataset::03_LFMH #3,03_LFMH #3.csv,123,0.8871345211720286,0.8873374270993342
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,124,1.0,0.9998590358345688
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,125,0.9998751443643288,0.9996919335082776
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,126,0.9954427692979992,0.9953944660575368
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,127,0.989949121328464,0.9899794500218612
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,128,0.9844554733589288,0.9844840325384496
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,129,0.9790242532072292,0.9790212367199224
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,130,0.9729063270593376,0.9729290791381082
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,131,1.02512719667884,1.0249733791796798
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,132,0.95945313231576,0.959385616338002
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,133,1.0162312326372631,1.0161017738796758
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,134,0.9497456066423198,0.9496734390278871
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,135,1.0083965414988918,1.0082537000807972
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,136,0.9429721884071542,0.9429142103300896
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,137,1.0027468239847677,1.0027337580775435
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,138,0.934138652183413,0.93406686932926
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,139,0.9963791865655336,0.9962638969312726
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,140,0.9282392233979462,0.9281644683246034
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,141,0.9923838062240534,0.9921864830395064
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,142,0.923401067515685,0.9233179115250196
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,143,0.9310172612916316,0.9310821631055716
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,144,0.9291132128476448,0.9291481642201356
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,145,0.9258669663201924,0.925864969472202
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,146,0.9220276555233012,0.9220165177911058
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,147,0.9200611792614788,0.9200578909366732
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,148,0.9172207135499578,0.9171517357933968
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,149,0.9121016324874364,0.9119878816468584
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,150,0.9060149202484628,0.905953515421437
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,151,0.8990542185597903,0.899004001386456
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,152,0.894902768673721,0.8948293789653669
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,153,0.8873490027156101,0.8872336317768295
+LG,Path-dependent degradation dataset::05_LHMF #2,Path-dependent degradation dataset::05_LHMF #2,05_LHMF #2.csv,154,0.8777351187689234,0.8776377529867991
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,155,1.0,0.9999673959697482
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,156,0.99812734082397,0.9979586001193396
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,157,0.9929151061173532,0.992780034078722
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,158,0.987265917602996,0.9871350320967176
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,159,0.9800561797752808,0.9799615653464432
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,160,0.9723470661672908,0.9723097986751084
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,161,0.962609238451935,0.9624950944729116
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,162,1.0166978776529336,1.0162050751276488
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,163,0.9484394506866416,0.948272839839405
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,164,1.0093632958801495,1.0089557321356273
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,165,0.937578027465668,0.937397007523933
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,166,1.0014669163545566,1.0011353941753798
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,167,0.9286204744069912,0.928486430878296
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,168,0.9942883895131086,0.993773990991784
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,169,0.920692883895131,0.9205437327211976
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,170,0.9862671660424468,0.9860359116373056
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,171,0.9128277153558052,0.9126445371219342
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,172,0.9798689138576778,0.979551833607383
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,173,0.9074282147315854,0.9071986844467028
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,174,0.907553058676654,0.9074181261377042
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,175,0.9015605493133582,0.9013600070134312
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,176,0.8959113607990011,0.8957276583025731
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,177,0.8885455680399501,0.888397508222438
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,178,0.8757178526841448,0.875514493881542
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,179,0.8521223470661672,0.8519588334777755
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,180,0.8597378277153558,0.8596266715989043
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,181,0.857521847690387,0.857358325843539
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,182,0.8540886392009986,0.8539201899556031
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,183,0.8495318352059925,0.8492875726142254
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,184,0.8459737827715356,0.8458202482691088
+LG,Path-dependent degradation dataset::06_LHFM #1,Path-dependent degradation dataset::06_LHFM #1,06_LHFM #1.csv,185,0.8407615480649188,0.8405801268974893
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,186,1.0,0.9999321208842854
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,187,0.9992749054224463,0.9992526879657696
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,188,0.9972257250945774,0.9971170208009448
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,189,0.9946721311475408,0.9945532481929862
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,190,0.9897540983606556,0.9896667018847912
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,191,0.982124842370744,0.9819612254916577
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,192,0.9733921815889028,0.9732332621471008
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,193,1.0306746532156368,1.0300152780461511
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,194,0.9569356872635562,0.956701027646538
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,195,1.0217213114754098,1.0212545722921649
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,196,0.9453026481715006,0.9451352039176004
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,197,1.0134300126103404,1.013212420120802
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,198,0.9359709962168978,0.9358330128362446
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,199,1.005706179066835,1.0050393310648946
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,200,0.9280895334174024,0.9279529802362496
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,201,0.9976040353089534,0.9972536014786108
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,202,0.9199558638083228,0.919779579917039
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,203,0.9898802017654476,0.9894593511111384
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,204,0.9126418663303908,0.9125625151316608
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,205,0.9132723833543506,0.9131572535502904
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,206,0.9115069356872636,0.91143332266814
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,207,0.908827238335435,0.9087106889959669
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,208,0.9065258511979823,0.9063969419712664
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,209,0.9040983606557376,0.9039832268733652
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,210,0.9017654476670868,0.901635280522058
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,211,0.9066204287515762,0.9064633404456162
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,212,0.9057692307692308,0.9056354736396792
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,213,0.9040668348045398,0.9039047444938788
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,214,0.9026796973518284,0.9025258099179994
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,215,0.9014817150063053,0.9013418651106024
+LG,Path-dependent degradation dataset::06_LHFM #3,Path-dependent degradation dataset::06_LHFM #3,06_LHFM #3.csv,216,0.8985182849936948,0.8984080381580279
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,217,1.0,0.9998737470437608
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,218,0.996495548399318,0.9963970623411332
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,219,0.995264254593673,0.9950538563974778
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,220,0.9940961040601124,0.993841343568434
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,221,0.9930542400707204,0.9927919384939224
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,222,0.9916650880848644,0.9913647249922116
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,223,0.9892025004735744,0.9889042261377964
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,224,0.9875607753993813,0.987234097327116
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,225,0.9846877565195428,0.984375887275686
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,226,0.9797310096609206,0.9793894301967871
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,227,0.9719643871945444,0.9716179521127446
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,228,0.962745469470228,0.9623807679699188
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,229,0.9521689713960976,0.9518081588313456
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,230,1.0053671781271705,1.0047970687646504
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,231,0.9364462966470922,0.9361234252279904
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,232,0.9968744080318244,0.9965156610183682
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,233,0.9233440676895877,0.923017508845552
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,234,0.9872134874029171,0.9868558142228044
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,235,0.9129885710677528,0.912627175966564
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,236,0.9776157100460944,0.97730392766593
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,237,0.9038643682515628,0.9034963643905448
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,238,0.9681442192334406,0.96780251603784
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,239,0.8941718759866135,0.8939494446222633
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,240,0.9589884447812084,0.958461501649829
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,241,0.8852371029866767,0.8851364086671334
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,242,0.8861211087958578,0.8858631133420236
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,243,0.8839110942729052,0.8836201023782403
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,244,0.8808170739407715,0.8805780491521542
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,245,0.8768706194354992,0.8764906303061586
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,246,0.8722295889372987,0.8719055848293451
+LG,Path-dependent degradation dataset::07_MLHF #1,Path-dependent degradation dataset::07_MLHF #1,07_MLHF #1.csv,247,0.8661994064532423,0.865885281337917
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,248,1.0,0.999765881888319
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,249,0.9980520296594194,0.9978997384781432
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,250,0.9950043986427046,0.9947774741287306
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,251,0.9923023752670606,0.992078177265406
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,252,0.9892861631268066,0.9891214596341672
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,253,0.9866155586276236,0.9864230635474414
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,254,0.984824682669348,0.9846788345383658
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,255,0.9820598215407818,0.9818985873148705
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,256,0.9776611788362448,0.9774480961409804
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,257,0.97332537388463,0.9730899321066298
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,258,0.9695551087093126,0.9693085402290588
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,259,0.9639939675757196,0.9638337756715936
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,260,0.957835867789368,0.9576215180997928
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,261,0.9625172803820536,0.962340436728278
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,262,0.9621716727409828,0.9618292560205702
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,263,0.9583699886892044,0.9580795846939166
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,264,0.9538770893552848,0.9536345818614532
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,265,0.9475933140630892,0.9473200689643876
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,266,0.939455825059696,0.9392431414165588
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,267,0.9907000125675506,0.9905281233378648
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,268,0.9278622596455952,0.9276648596605844
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,269,0.9862699509865528,0.9861290903407144
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,270,0.9191906497423652,0.919051776772885
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,271,0.9790750282769888,0.9788309287408576
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,272,0.91130451175066,0.9111664377509092
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,273,0.9711260525323616,0.9710865045350412
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,274,0.9033241171295716,0.9031411477397778
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,275,0.9624230237526707,0.9621883793907198
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,276,0.8953123036320222,0.8951026096037289
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,277,0.9534372250848312,0.9534043138364716
+LG,Path-dependent degradation dataset::09_MFLH #2,Path-dependent degradation dataset::09_MFLH #2,09_MFLH #2.csv,278,0.8877403544049265,0.8875975591341284
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,279,1.0,1.0001267160500786
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,280,0.99749694940709,0.9976333325140369
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,281,0.9944307124307752,0.9945439214150492
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,282,0.9905509840117644,0.9907113561381256
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,283,0.9871405775789244,0.9872829469654684
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,284,0.9842307812646665,0.9843515638062672
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,285,0.9822596289227497,0.9823890259015836
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,286,1.0426770126091174,1.042466022767709
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,287,0.9730922061262164,0.9731372661651064
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,288,1.0361690810675512,1.0363960021069611
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,289,0.9658959356715998,0.9659318302066272
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,290,1.029066675010169,1.0292688054995944
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,291,0.958105190701167,0.9581156167144422
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,292,1.0220581333500205,1.0222985666380222
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,293,0.949782547479741,0.949811943841582
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,294,1.0148305747629924,1.0150559358370363
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,295,0.943212039673352,0.9432578029926828
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,296,1.0091674227965333,1.009170095954987
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,297,0.9373298707800132,0.9374008727636058
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,298,0.9478113951378244,0.9478816531779176
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,299,0.945464785206971,0.9455061703398396
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,300,0.9409905822721442,0.941013283141005
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,301,0.9387691248709364,0.9387603346770822
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,302,0.9358280404242671,0.935835184083626
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,303,0.9336065830230594,0.9336552031591532
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,304,0.9231250586652484,0.9231590937336938
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,305,0.9160539407402772,0.9161205929434848
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,306,0.9091392634773632,0.9092190920746552
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,307,0.9051656706611182,0.9052538673639476
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,308,0.8982197052657928,0.8982833239723849
+LG,Path-dependent degradation dataset::11_MHLF #1,Path-dependent degradation dataset::11_MHLF #1,11_MHLF #1.csv,309,0.8876756046431589,0.8877444325034727
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,310,1.0,0.999962248889718
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,311,0.9962035164151236,0.9963109597053176
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,312,0.9927182200093356,0.9928315701584988
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,313,0.98811264975883,0.9881888764149857
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,314,0.9837871479695036,0.9838818401022116
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,315,0.979866189512992,0.979933914840212
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,316,0.9760074684922982,0.9760835914993582
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,317,1.0347596079041546,1.0350814913178683
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,318,0.9682277890150928,0.968323152705393
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,319,1.027664540220943,1.0278132527994237
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,320,0.9603236346662518,0.9603552520835578
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,321,1.0215030340749962,1.022043846904947
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,322,0.9517971059592346,0.9518357634348782
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,323,1.014905865878326,1.01528977837856
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,324,0.9442352575073908,0.9443428628771812
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,325,1.0085576474249265,1.0088757752587183
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,326,0.9383227011047144,0.938356671155244
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,327,1.002800684611794,1.0029579182562396
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,328,0.932472382137856,0.9324230927337592
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,329,0.9459779057102848,0.9459683324098628
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,330,0.9449509880192936,0.944994905547955
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,331,0.9414656916135056,0.9415149583893933
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,332,0.939816399564338,0.9398480466668172
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,333,0.937855920336082,0.9379039993460664
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,334,0.9357087288003736,0.9357779462556324
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,335,0.9299206472693328,0.9300284960006628
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,336,0.9229811731756652,0.9230667680502136
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,337,0.9143301695970129,0.9143836431356082
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,338,0.9046211296094602,0.9047140370516198
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,339,0.8945075462890929,0.8945417886157674
+LG,Path-dependent degradation dataset::11_MHLF #2,Path-dependent degradation dataset::11_MHLF #2,11_MHLF #2.csv,340,0.8806285981017582,0.8807636287380595
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,341,1.0,0.999830873002779
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,342,0.9965829649832282,0.996435510109428
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,343,0.9949841687827204,0.99480314236309
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,344,0.9904385717420608,0.9902912976482916
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,345,0.9875858177372332,0.9873963949026192
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,346,0.9848898084579454,0.98473916743697
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,347,0.9828207780808176,0.9826658525773556
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,348,1.043324242139252,1.0429026388497464
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,349,0.9724442772500704,0.9723494423478244
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,350,1.0365215210508163,1.0363791592903469
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,351,0.9636665726198312,0.9635220206324672
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,352,1.030502523590081,1.0301633478633128
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,353,0.956299570519452,0.9561479242648344
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,354,1.0242327345684816,1.0238995071683514
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,355,0.9494028025956928,0.9493067834205678
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,356,1.018746669174582,1.018389516929629
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,357,0.944136179817549,0.9439633577370136
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,358,1.0155177278284584,1.0153469951376637
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,359,0.9390263017649456,0.9388624013492006
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,360,0.9424746857268252,0.9422340371614532
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,361,0.9390889996551616,0.9389122249957378
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,362,0.9358914072541458,0.9356948257937496
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,363,0.9303426439700304,0.9302205490034328
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,364,0.9199347941941752,0.9198203391074604
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,365,0.912097557917176,0.9119918591363882
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,366,0.9234772249913792,0.9234382771185394
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,367,0.9280228220320386,0.927825172699427
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,368,0.9289632903852784,0.9287750506518644
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,369,0.9277093325809586,0.9274860383607716
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,370,0.9265807705570708,0.9263595400885614
+LG,Path-dependent degradation dataset::12_MHFL #1,Path-dependent degradation dataset::12_MHFL #1,12_MHFL #1.csv,371,0.9238220633875668,0.923553651631433
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,372,1.0,1.0000827050512815
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,373,0.9966875,0.9968313304665232
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,374,0.9945,0.9945696858084292
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,375,0.989625,0.989709766010096
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,376,0.9861875,0.9862678638810486
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,377,0.98365625,0.9837727524800766
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,378,0.98090625,0.9810295341405696
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,379,1.0404375,1.040282610499307
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,380,0.97128125,0.9712792330077598
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,381,1.03384375,1.0339601699562917
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,382,0.96246875,0.9625410970099444
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,383,1.02734375,1.027633488162134
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,384,0.95496875,0.9549870224693744
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,385,1.02153125,1.021433711895071
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,386,0.9480625,0.9480763234260844
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,387,1.016125,1.0161250708951015
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,388,0.94275,0.9427963632774872
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,389,1.011875,1.0120193894693696
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,390,0.93725,0.9372689130105814
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,391,0.94025,0.9403046455552208
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,392,0.93790625,0.93796844478247
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,393,0.934375,0.9344406161299308
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,394,0.9295625,0.929533952483892
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,395,0.919,0.9190664063741478
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,396,0.9099375,0.910241917906814
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,397,0.92071875,0.9208847279768584
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,398,0.92371875,0.9237585575873218
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,399,0.92303125,0.9230767371381194
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,400,0.92128125,0.9213309241917664
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,401,0.918875,0.918909853089654
+LG,Path-dependent degradation dataset::12_MHFL #2,Path-dependent degradation dataset::12_MHFL #2,12_MHFL #2.csv,402,0.91615625,0.916193851905908
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,403,1.0,1.0002878784427836
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,404,0.9977865070457664,0.9981359998841178
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,405,0.9951677266492082,0.9955427355810148
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,406,0.9906160369123334,0.9909520400832248
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,407,0.9875919690734508,0.9878831746475782
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,408,0.984567901234568,0.9848911933597444
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,409,0.9816061853098892,0.981946987130488
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,410,1.0430539967577006,1.0434717346246998
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,411,0.9723781020077318,0.9727438558272684
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,412,1.0363511659807956,1.0368562347996462
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,413,0.9647711684748722,0.9650910215120057
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,414,1.0298042149894002,1.0303558558723689
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,415,0.9574448185559296,0.95771847360118
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,416,1.0244419503678763,1.0251471470323614
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,417,0.9508043396932286,0.9510923612127048
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,418,1.0185185185185186,1.0190936963290853
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,419,0.9430103504177578,0.9433337881088878
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,420,1.0132809577254025,1.0138101928268868
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,421,0.9372116223968076,0.9375107781692212
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,422,0.9388639481232074,0.939123494484319
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,423,0.9361516398553436,0.936422528271643
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,424,0.931257014590348,0.9316615186313782
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,425,0.9242424242424244,0.924776940003592
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,426,0.9123020326724032,0.912925775334499
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,427,0.8974622770919067,0.8980839767784744
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,428,0.9225900985160244,0.9230518020597956
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,429,0.9289811697219104,0.9292818220171803
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,430,0.9317558299039782,0.9320015885196182
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,431,0.9321611173463028,0.9324275679562716
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,432,0.9315687741613669,0.9317649032931644
+LG,Path-dependent degradation dataset::12_MHFL #3,Path-dependent degradation dataset::12_MHFL #3,12_MHFL #3.csv,433,0.9304152637485972,0.9306811645306868
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,434,1.0,1.0003500590135854
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,435,0.9990646921278252,0.9995062827031124
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,436,0.9920810600155884,0.9924890701924592
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,437,0.9868433359314108,0.9871924198833316
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,438,0.9842868277474668,0.9846708762673366
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,439,0.9775837879968824,0.9779690459638408
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,440,0.9708807482462978,0.9712771908015648
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,441,0.9745908028059236,0.9749320471363762
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,442,0.972439594699922,0.9728883351614476
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,443,0.9687607170693686,0.969226864348322
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,444,0.9645206547155104,0.9649468024140504
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,445,0.9580358534684336,0.9584058327332908
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,446,0.9500545596258768,0.9504508503667044
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,447,0.9443803585346844,0.9448249974742968
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,448,0.9381137957911144,0.9385233952871944
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,449,0.9327201870615744,0.9331274981530168
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,450,0.9263289166017148,0.9267765910282986
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,451,0.920654715510522,0.9211035995464016
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,452,0.914294621979735,0.9147112658768336
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,453,0.9752455183164458,0.9754508571946324
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,454,0.9098986749805144,0.910274968227106
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,455,0.972689010132502,0.9733218746458634
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,456,0.9023226812159004,0.9027189836025468
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,457,0.9647388932190178,0.9650189235365814
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,458,0.8922837100545596,0.8927101130267581
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,459,0.9543881527669524,0.9546122795353646
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,460,0.8822135619641465,0.8826508711158816
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,461,0.9443180046765394,0.9441200688797038
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,462,0.8719563522992986,0.8724017419698027
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,463,0.934497272018706,0.9349761305569306
+LG,Path-dependent degradation dataset::13_FLMH #3,Path-dependent degradation dataset::13_FLMH #3,13_FLMH #3.csv,464,0.8628526890101325,0.8632835042861824
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,465,1.0,0.9992771995455952
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,466,0.9945440862912328,0.9939171878404504
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,467,0.9899034240561896,0.9892813740803192
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,468,0.984823780258372,0.9841519463279026
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,469,0.978740750031356,0.9779985041790068
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,470,0.9714975542455788,0.9708259074187188
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,471,0.962749278816004,0.9620681320029888
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,472,0.9582653957105228,0.9576522602211308
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,473,0.9545654082528532,0.953972142328344
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,474,0.9498306785400727,0.949130992026488
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,475,0.9434027342280196,0.9427354661233616
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,476,0.9382290229524646,0.9376887175286382
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,477,0.9339019189765458,0.9333979887738152
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,478,0.9339959864542832,0.9334840727016116
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,479,0.930609557255738,0.9300905505893012
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,480,0.9264392324093816,0.9259519155996876
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,481,0.9213282327856516,0.920804262356363
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,482,0.9143045277812618,0.9137315830790852
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,483,0.904929135833438,0.9044778741774556
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,484,0.9486391571553994,0.9481497065466
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,485,0.8989715289100715,0.8984797307142731
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,486,0.9466010284710898,0.9460539774210736
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,487,0.8898783393954597,0.8893630611212592
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,488,0.9381349554747273,0.9375306389083408
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,489,0.8791860027593127,0.8786315145172197
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,490,0.9284460052677788,0.9279508599908431
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,491,0.868587733600903,0.8679588568075095
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,492,0.9169697729838204,0.9165828145644792
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,493,0.8588047159162172,0.8581873483008089
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,494,0.9070299761695724,0.9065713914170426
+LG,Path-dependent degradation dataset::15_FMLH #2,Path-dependent degradation dataset::15_FMLH #2,15_FMLH #2.csv,495,0.8471717045026966,0.8466820785712397
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,496,1.0,0.9992749422876738
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,497,0.9955380989787902,0.9948325291522622
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,498,0.9908248232521604,0.990110664483676
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,499,0.9862686567164178,0.985482592098489
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,500,0.980801256873527,0.9800542791028096
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,501,0.9734485467399844,0.9727943642904552
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,502,0.963644933228594,0.962928185922401
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,503,0.959465828750982,0.958731492616024
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,504,0.9550353495679498,0.9543564840127218
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,505,0.9484367635506676,0.9478198412326132
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,506,0.9436292223095052,0.9430364309511596
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,507,0.9386017282010995,0.9380904844696588
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,508,0.9357423409269444,0.9352055631779936
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,509,0.9833778476040848,0.9824282677934876
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,510,0.9337941869599372,0.933030862828172
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,511,0.9830636292223096,0.982330432461201
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,512,0.9277926158680284,0.9270704667005396
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,513,0.9782246661429692,0.9775445036037966
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,514,0.9194029850746268,0.91877536965455
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,515,0.9699293008641006,0.9691062430765308
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,516,0.9100078554595444,0.9093069875921642
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,517,0.961885310290652,0.9614787660707886
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,518,0.902623723487824,0.9019137497064832
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,519,0.9535899450117832,0.953136844636678
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,520,0.8938570306362922,0.8932081928311814
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,521,0.9030007855459544,0.9023289300440088
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,522,0.9005184603299292,0.8998850491223932
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,523,0.8968735271013354,0.8962218826258109
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,524,0.8931343283582089,0.8924835670699007
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,525,0.8898036135113904,0.8891256158801548
+LG,Path-dependent degradation dataset::16_FMHL #2,Path-dependent degradation dataset::16_FMHL #2,16_FMHL #2.csv,526,0.885718774548311,0.885106601399638
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,527,1.0,1.0004670117381826
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,528,0.9932095689010716,0.993774972207516
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,529,0.987633939695988,0.9882045452389342
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,530,0.9826812858210816,0.983173441916467
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,531,0.977915524545228,0.9784556138865508
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,532,0.9727136805382508,0.9732741360274746
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,533,0.9672937951657116,0.9678369163026626
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,534,1.0308684276102666,1.0313490070283602
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,535,0.95788686768004,0.9583359758094208
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,536,1.023112384749564,1.0235829034458273
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,537,0.9493832544231248,0.9498564133792496
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,538,1.0162596561176178,1.0165359792475166
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,539,0.9406927485671568,0.9412184788081596
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,540,1.0098118614502865,1.010247816639131
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,541,0.9362384749563918,0.9366618403631074
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,542,1.004672314976327,1.0050460775584675
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,543,0.9303513580862198,0.9307979729617912
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,544,0.9995639172688762,1.0002266647361364
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,545,0.9249314727136804,0.9253923775027508
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,546,0.937577871916272,0.938080126702248
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,547,0.9367057064540244,0.9371809424273853
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,548,0.9353040119611264,0.935776454405349
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,549,0.934338400199352,0.9348578812145304
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,550,0.932531771741839,0.9329959324671642
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,551,0.9313792673810116,0.93188171269858
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,552,0.9286381759282332,0.9290851165805912
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,553,0.9267381011711936,0.927220592386449
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,554,0.9243396461500124,0.9248568709971042
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,555,0.9217542985297784,0.922258549140302
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,556,0.9192935459755792,0.9198259372332648
+LG,Path-dependent degradation dataset::17_FHLM #1,Path-dependent degradation dataset::17_FHLM #1,17_FHLM #1.csv,557,0.9168016446548716,0.917322868809509
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,558,1.0,1.0004102271372963
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,559,0.9946067275618043,0.9950728414779224
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,560,0.9898993047978302,0.990349698729538
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,561,0.9850360071078966,0.9855065148631222
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,562,0.9805468092402656,0.9809903207973812
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,563,0.9744676871278486,0.975008392448857
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,564,0.968263865074664,0.9687624711077424
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,565,1.030177385665742,1.0308402157892698
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,566,0.9579137699909592,0.9582268967201688
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,567,1.024098263553325,1.0244443734120938
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,568,0.9498706238114536,0.950121960527785
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,569,1.0176762166037971,1.0180277193825005
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,570,0.9400505034760108,0.9404539343698328
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,571,1.0107553698911993,1.011050741021314
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,572,0.9349066309193504,0.9352587406464988
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,573,1.0043333229416715,1.0048579432241969
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,574,0.9291080836736604,0.929544309866338
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,575,0.9994076752813542,0.9995990754418363
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,576,0.923371886398354,0.9237490094288952
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,577,0.9322567571780404,0.9326698674858516
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,578,0.932630857000343,0.9330434561682324
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,579,0.9321320572372728,0.932519954194828
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,580,0.9311344577111328,0.931491275740468
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,581,0.9296692334071142,0.9300130039104164
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,582,0.9283598840290552,0.9287442191131148
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,583,0.9299498082738412,0.9302575506447358
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,584,0.9285157589550146,0.9288438048018528
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,585,0.9279234342363688,0.928271477483791
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,586,0.9260841101100478,0.9264890007540848
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,587,0.9247747607319888,0.9251299207665752
+LG,Path-dependent degradation dataset::18_FHML #2,Path-dependent degradation dataset::18_FHML #2,18_FHML #2.csv,588,0.9227795616797082,0.923079430409448
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,589,1.0,1.0001678471361557
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,590,1.0649099253801242,1.0649303207813392
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,591,0.9867932186456024,0.986905301323502
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,592,1.055387305254613,1.0554184042648858
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,593,0.9758656217802616,0.975981591868284
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,594,1.0473945486902494,1.0474221567966893
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,595,0.9674357613412844,0.967523317250102
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,596,1.038839801429954,1.038935639181899
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,597,0.9605045427581256,0.960600715214482
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,598,1.032595460364045,1.0327021400772645
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,599,0.9532611071216708,0.9533318927380808
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,600,1.0257266851915452,1.0258984062911596
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,601,0.9470479877610916,0.9471199201608604
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,602,0.9552280745574324,0.955394730857502
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,603,0.9553529613787504,0.9554567328553982
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,604,0.9520746823191482,0.9522169669966456
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,605,0.9498891629460802,0.9500133279970052
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,606,0.9487339598488868,0.9488030164500476
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,607,0.9471104311717506,0.9472410518392008
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,608,0.9467669924131256,0.9468600829611618
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,609,0.9464859970651596,0.9465274086493703
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,610,0.943301383121546,0.943396254416768
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,611,0.9402104342939211,0.9403260628432224
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,612,0.9383371319741484,0.9384196726056204
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,613,0.9350276312092166,0.9351535096822742
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,614,0.9280027475100692,0.9281199384601604
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,615,0.9219457366761372,0.9220042752973306
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,616,0.9162009428955008,0.9162704585590752
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,617,0.9095194979549784,0.9095996104536452
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,618,0.901308189453308,0.9013469348192544
+LG,Path-dependent degradation dataset::21_HMLF #2,Path-dependent degradation dataset::21_HMLF #2,21_HMLF #2.csv,619,0.8906928096412625,0.8907836905200932
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,620,1.0,1.000147770563424
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,621,1.0703408948489783,1.0702986309838192
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,622,0.9888457200150396,0.9889634274354316
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,623,1.0600639177841835,1.0602409118280671
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,624,0.978474746208798,0.9786220673405864
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,625,1.0503195889209174,1.050319560337828
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,626,0.9710803358816894,0.9711615594527828
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,627,1.0430505075824037,1.0432082381430257
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,628,0.9631532773530516,0.96322944436434
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,629,1.0353114425366587,1.035608180202
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,630,0.9557901992730918,0.9558665110637444
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,631,1.0284183481639304,1.028520206057589
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,632,0.9491164306304049,0.9491728984956528
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,633,0.9570434891590424,0.95711706266086
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,634,0.9574194761248276,0.9574981902059486
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,635,0.956824163429001,0.9568805598176358
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,636,0.9557275347787942,0.9557998483156858
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,637,0.9545055771399924,0.954566390909344
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,638,0.952938964782554,0.9530262465385329
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,639,0.9535656097255296,0.9536159996342464
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,640,0.9535969419726782,0.9536156679665406
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,641,0.9520616618623888,0.952064138736232
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,642,0.9502443915277604,0.950211221802682
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,643,0.9484584534402808,0.9484597572145312
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,644,0.9464845218699084,0.9464790985173016
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,645,0.942787316706354,0.9427936178780372
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,646,0.9388081213184608,0.938794188980023
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,647,0.935173580649204,0.9351722204755394
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,648,0.9315077077327985,0.9315519917952756
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,649,0.927716505827798,0.927716561304902
+LG,Path-dependent degradation dataset::21_HMLF #3,Path-dependent degradation dataset::21_HMLF #3,21_HMLF #3.csv,650,0.9234239879684172,0.9233661685581684
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,651,1.0,1.0001051349978356
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,652,1.065960580327766,1.0658000716115803
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,653,0.9882493027919655,0.9883400753198024
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,654,1.0559333187102435,1.0559033647595992
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,655,0.9780653652116692,0.9781686490637528
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,656,1.046940118447028,1.0470288392086935
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,657,0.969416852066556,0.9694640010999628
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,658,1.0388556387679002,1.0389056379283672
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,659,0.9622410929715164,0.9622546306694156
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,660,1.0324632594867296,1.032439175742533
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,661,0.955660702535017,0.9556785339532337
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,662,1.0258201986651208,1.026016711447256
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,663,0.9499576974900512,0.950020041908803
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,664,0.951900479428446,0.9519678675289576
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,665,0.9502083790304892,0.9503603462288944
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,666,0.946072133613261,0.9462062072699516
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,667,0.9386770281703382,0.9389112606363146
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,668,0.928461755397487,0.9288305021369064
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,669,0.9172437564628836,0.917631435609076
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,670,0.9299345094475604,0.9301036361083728
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,671,0.9328173471625985,0.9329279406121062
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,672,0.932065302541284,0.9321297402845324
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,673,0.9307492244539842,0.9307995357957064
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,674,0.9278977219315012,0.9279436468753872
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,675,0.9242001692100398,0.924231028522332
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,676,0.9192805439789428,0.9193531723362972
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,677,0.9158336727979192,0.9158800454775716
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,678,0.9132328518158744,0.9133092848995632
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,679,0.910945382759377,0.9109869690590516
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,680,0.9090339360135368,0.9090821891606558
+LG,Path-dependent degradation dataset::23_HFLM #1,Path-dependent degradation dataset::23_HFLM #1,23_HFLM #1.csv,681,0.9063077742612728,0.9063285387551928
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,682,1.0,1.0000597562485989
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,683,1.065547009888557,1.0652245815368568
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,684,0.9886046146601788,0.988597135905463
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,685,1.0566630042379532,1.0567271048931155
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,686,0.9790927640872704,0.979125159103822
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,687,1.0480301365562703,1.0479264154463803
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,688,0.971244702558468,0.971276413912596
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,689,1.040150682781353,1.0401210625893678
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,690,0.9639617014597394,0.9639599103229464
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,691,1.0332443886360068,1.0331603527347153
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,692,0.9567414848532412,0.956750611124178
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,693,1.0274054308585778,1.0272263674485738
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,694,0.9514989797520012,0.9515131126526454
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,695,0.9513420185214252,0.9513534664273002
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,696,0.9472924187725632,0.947343000857915
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,697,0.9432114267775858,0.943275852074852
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,698,0.939193219274839,0.9393209978461684
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,699,0.9347355203264792,0.9350047515366292
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,700,0.9299325066708524,0.9301709858980052
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,701,0.942771935331973,0.942823754778414
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,702,0.9462564746507612,0.9462548680085552
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,703,0.9476063412337152,0.9475935647326474
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,704,0.9470412808036414,0.9470574273838468
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,705,0.9466645738502588,0.9466805460041716
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,706,0.9452833150211898,0.9453087780328844
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,707,0.9459425521896092,0.945925717221327
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,708,0.945189138282844,0.945192468327008
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,709,0.9440904096688116,0.9441124835052952
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,710,0.942928896562549,0.9430067099523908
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,711,0.9408884005650604,0.940964196604622
+LG,Path-dependent degradation dataset::24_HFML #1,Path-dependent degradation dataset::24_HFML #1,24_HFML #1.csv,712,0.9390048657981478,0.9390008345782735
+NASA,B0005,B0005,B0005.mat,0,1.0,0.9938018407741732
+NASA,B0005,B0005,B0005.mat,1,0.9945272071416714,0.9892870386836532
+NASA,B0005,B0005,B0005.mat,2,0.9886138595081705,0.984482589079868
+NASA,B0005,B0005,B0005.mat,3,0.9885671763794173,0.983256037295314
+NASA,B0005,B0005,B0005.mat,4,0.9882348178817771,0.9830243106603122
+NASA,B0005,B0005,B0005.mat,5,0.9887821697485943,0.9829971964404328
+NASA,B0005,B0005,B0005.mat,6,0.9885044855913476,0.9822923385910259
+NASA,B0005,B0005,B0005.mat,7,0.9834468955151549,0.9799211147985523
+NASA,B0005,B0005,B0005.mat,8,0.9829174345738104,0.9778717990549226
+NASA,B0005,B0005,B0005.mat,9,0.982830935473199,0.9777768285716787
+NASA,B0005,B0005,B0005.mat,10,0.9828343204622076,0.976684799799719
+NASA,B0005,B0005,B0005.mat,11,0.9772228539894279,0.9736411237331951
+NASA,B0005,B0005,B0005.mat,12,0.9769805803238794,0.9713253993759532
+NASA,B0005,B0005,B0005.mat,13,0.9768127007692816,0.971494548908052
+NASA,B0005,B0005,B0005.mat,14,0.9709723768751647,0.9683611129732075
+NASA,B0005,B0005,B0005.mat,15,0.9707078432300706,0.9657467341765998
+NASA,B0005,B0005,B0005.mat,16,0.9709624103091467,0.9656781803901844
+NASA,B0005,B0005,B0005.mat,17,0.9712257104811376,0.9651837732729629
+NASA,B0005,B0005,B0005.mat,18,0.9710691300699019,0.9651080002255997
+NASA,B0005,B0005,B0005.mat,19,0.9949035873989017,0.9908227503003545
+NASA,B0005,B0005,B0005.mat,20,0.995114370594272,0.9883717950785033
+NASA,B0005,B0005,B0005.mat,21,0.9890599854098058,0.9849570793269686
+NASA,B0005,B0005,B0005.mat,22,0.9834597999985366,0.9801416675851402
+NASA,B0005,B0005,B0005.mat,23,0.9831004632950897,0.9780387642665338
+NASA,B0005,B0005,B0005.mat,24,0.9833524772367372,0.9773474167124668
+NASA,B0005,B0005,B0005.mat,25,0.9771308478400268,0.9744368191405504
+NASA,B0005,B0005,B0005.mat,26,0.9775284086310274,0.971849461665039
+NASA,B0005,B0005,B0005.mat,27,0.9770975921350076,0.9712516325994963
+NASA,B0005,B0005,B0005.mat,28,0.9710626880376818,0.9684303625973556
+NASA,B0005,B0005,B0005.mat,29,0.9717690623092355,0.9665501098977531
+NASA,B0005,B0005,B0005.mat,30,0.9974764875349146,0.9914489845043923
+NASA,B0005,B0005,B0005.mat,31,0.9861116348782737,0.98084671584435
+NASA,B0005,B0005,B0005.mat,32,0.9802943389447215,0.9749615132086026
+NASA,B0005,B0005,B0005.mat,33,0.9745867078945714,0.9698049449207139
+NASA,B0005,B0005,B0005.mat,34,0.9720560906279802,0.9662527820502789
+NASA,B0005,B0005,B0005.mat,35,0.9692374130950105,0.9639687712849824
+NASA,B0005,B0005,B0005.mat,36,0.9633478867036308,0.958680628392399
+NASA,B0005,B0005,B0005.mat,37,0.9603744299218223,0.9550637106178648
+NASA,B0005,B0005,B0005.mat,38,0.9550475246530081,0.9507140245784669
+NASA,B0005,B0005,B0005.mat,39,0.9550497004162602,0.9485650751442365
+NASA,B0005,B0005,B0005.mat,40,0.9522672175646096,0.9473349816674141
+NASA,B0005,B0005,B0005.mat,41,0.9492739086983165,0.9437371302174408
+NASA,B0005,B0005,B0005.mat,42,0.9521299593373235,0.9484555507673978
+NASA,B0005,B0005,B0005.mat,43,0.9494642085785509,0.9438755884317224
+NASA,B0005,B0005,B0005.mat,44,0.9435725054869607,0.9384952549811556
+NASA,B0005,B0005,B0005.mat,45,0.9382501520146926,0.9334154488722975
+NASA,B0005,B0005,B0005.mat,46,0.935148459244402,0.9298991184388425
+NASA,B0005,B0005,B0005.mat,47,0.9661385230754256,0.9581297664646642
+NASA,B0005,B0005,B0005.mat,48,0.9605176972012408,0.9548202686017108
+NASA,B0005,B0005,B0005.mat,49,0.9519936347583842,0.9466022116073478
+NASA,B0005,B0005,B0005.mat,50,0.9464205172265512,0.9404344863650663
+NASA,B0005,B0005,B0005.mat,51,0.9409547290193551,0.9356368353063563
+NASA,B0005,B0005,B0005.mat,52,0.9381788592880077,0.9319322813568642
+NASA,B0005,B0005,B0005.mat,53,0.9353268361401414,0.9294880063654472
+NASA,B0005,B0005,B0005.mat,54,0.92988603346571,0.9244080017524012
+NASA,B0005,B0005,B0005.mat,55,0.9242220117908766,0.9190111683348244
+NASA,B0005,B0005,B0005.mat,56,0.9213816005181208,0.9157620572207817
+NASA,B0005,B0005,B0005.mat,57,0.9189475137389712,0.9128760335252203
+NASA,B0005,B0005,B0005.mat,58,0.9158753289666399,0.9102691180521558
+NASA,B0005,B0005,B0005.mat,59,0.9127882263985312,0.906697651754333
+NASA,B0005,B0005,B0005.mat,60,0.9075757205607075,0.9023279872699744
+NASA,B0005,B0005,B0005.mat,61,0.9019582574806932,0.8972356163241668
+NASA,B0005,B0005,B0005.mat,62,0.902009477257823,0.8952626674805787
+NASA,B0005,B0005,B0005.mat,63,0.896163559916933,0.8913568606506692
+NASA,B0005,B0005,B0005.mat,64,0.893630546668135,0.8885474615760536
+NASA,B0005,B0005,B0005.mat,65,0.8908512057704355,0.8841345175300355
+NASA,B0005,B0005,B0005.mat,66,0.8848181591266643,0.8795523333463894
+NASA,B0005,B0005,B0005.mat,67,0.8822348186450748,0.8759629002352017
+NASA,B0005,B0005,B0005.mat,68,0.8794754127611387,0.8735549550163321
+NASA,B0005,B0005,B0005.mat,69,0.8767917699307696,0.870597340163194
+NASA,B0005,B0005,B0005.mat,70,0.8737605584239754,0.8673716270612419
+NASA,B0005,B0005,B0005.mat,71,0.8679432148624366,0.8628742875335367
+NASA,B0005,B0005,B0005.mat,72,0.865377875300024,0.8597436463486631
+NASA,B0005,B0005,B0005.mat,73,0.8626582682073705,0.8561089926072811
+NASA,B0005,B0005,B0005.mat,74,0.8566549999565574,0.8512062529355703
+NASA,B0005,B0005,B0005.mat,75,0.854187849075412,0.8481710224459391
+NASA,B0005,B0005,B0005.mat,76,0.853732189598637,0.8475439643670579
+NASA,B0005,B0005,B0005.mat,77,0.8594329115068511,0.8536005952788639
+NASA,B0005,B0005,B0005.mat,78,0.8482309964083232,0.8423959423105514
+NASA,B0005,B0005,B0005.mat,79,0.8429370312695894,0.8371709575941475
+NASA,B0005,B0005,B0005.mat,80,0.8401704907053151,0.834262674177836
+NASA,B0005,B0005,B0005.mat,81,0.8400173086716403,0.8334260711694678
+NASA,B0005,B0005,B0005.mat,82,0.8374359751414073,0.8312020759773278
+NASA,B0005,B0005,B0005.mat,83,0.8343035835418966,0.8279168463670464
+NASA,B0005,B0005,B0005.mat,84,0.8285736718133292,0.8225608829030123
+NASA,B0005,B0005,B0005.mat,85,0.8230135260370756,0.8171336581792659
+NASA,B0005,B0005,B0005.mat,86,0.8233426447360579,0.8164724451533788
+NASA,B0005,B0005,B0005.mat,87,0.8201764839394088,0.8145223963780287
+NASA,B0005,B0005,B0005.mat,88,0.8173963242800902,0.8116132535985613
+NASA,B0005,B0005,B0005.mat,89,0.8649769888680268,0.8584069821633924
+NASA,B0005,B0005,B0005.mat,90,0.8423699116610504,0.8346208305673265
+NASA,B0005,B0005,B0005.mat,91,0.8338820438085877,0.8274608543176178
+NASA,B0005,B0005,B0005.mat,92,0.8254166152720488,0.8199076841857649
+NASA,B0005,B0005,B0005.mat,93,0.8224956494324317,0.8154703821798138
+NASA,B0005,B0005,B0005.mat,94,0.8171115433925789,0.8111109470642263
+NASA,B0005,B0005,B0005.mat,95,0.8143861246029738,0.8080779657069981
+NASA,B0005,B0005,B0005.mat,96,0.811513118362076,0.8050889014937228
+NASA,B0005,B0005,B0005.mat,97,0.8088098717121404,0.8019248565642676
+NASA,B0005,B0005,B0005.mat,98,0.8030457886878684,0.797634903666847
+NASA,B0005,B0005,B0005.mat,99,0.8003654470798278,0.7944451766304998
+NASA,B0005,B0005,B0005.mat,100,0.7974272604140161,0.7910094846599767
+NASA,B0005,B0005,B0005.mat,101,0.7946240682056631,0.7886683770419075
+NASA,B0005,B0005,B0005.mat,102,0.8003844153038009,0.7929543167901926
+NASA,B0005,B0005,B0005.mat,103,0.8058723226653155,0.7993513644197588
+NASA,B0005,B0005,B0005.mat,104,0.7976356737393387,0.7906433353743285
+NASA,B0005,B0005,B0005.mat,105,0.79168558341158,0.7854126990296205
+NASA,B0005,B0005,B0005.mat,106,0.7831462853887025,0.7763274621129728
+NASA,B0005,B0005,B0005.mat,107,0.7832782438583529,0.7773183602219846
+NASA,B0005,B0005,B0005.mat,108,0.7837509350133121,0.776240645393733
+NASA,B0005,B0005,B0005.mat,109,0.7805289427291894,0.7737204236036056
+NASA,B0005,B0005,B0005.mat,110,0.7749424644709048,0.7691254218468127
+NASA,B0005,B0005,B0005.mat,111,0.7721277376203588,0.7656727110119783
+NASA,B0005,B0005,B0005.mat,112,0.7721010517012333,0.7648652445389676
+NASA,B0005,B0005,B0005.mat,113,0.7692294908297354,0.7629556843726801
+NASA,B0005,B0005,B0005.mat,114,0.7664583676775116,0.7599138031009951
+NASA,B0005,B0005,B0005.mat,115,0.7635004777498812,0.7567366589026283
+NASA,B0005,B0005,B0005.mat,116,0.7607965521102183,0.7541680699888909
+NASA,B0005,B0005,B0005.mat,117,0.7608878881159705,0.7531977911913822
+NASA,B0005,B0005,B0005.mat,118,0.7582051768100095,0.7520055544155695
+NASA,B0005,B0005,B0005.mat,119,0.7720989824377313,0.7652736159006224
+NASA,B0005,B0005,B0005.mat,120,0.7747184287655712,0.7678819178071981
+NASA,B0005,B0005,B0005.mat,121,0.7634604477007023,0.7573870389546024
+NASA,B0005,B0005,B0005.mat,122,0.7578729852409039,0.7512517613660927
+NASA,B0005,B0005,B0005.mat,123,0.7547607178190572,0.7481019902193672
+NASA,B0005,B0005,B0005.mat,124,0.7523351936621817,0.7456658332613911
+NASA,B0005,B0005,B0005.mat,125,0.7494178378216989,0.7424676780782573
+NASA,B0005,B0005,B0005.mat,126,0.7466944037718938,0.7400422247851182
+NASA,B0005,B0005,B0005.mat,127,0.74357448411315,0.7367816327081421
+NASA,B0005,B0005,B0005.mat,128,0.740773354887346,0.7341389622331689
+NASA,B0005,B0005,B0005.mat,129,0.7382289732324248,0.7313120823602272
+NASA,B0005,B0005,B0005.mat,130,0.7382266861916329,0.7309629298732244
+NASA,B0005,B0005,B0005.mat,131,0.7351170256067291,0.7281053343706692
+NASA,B0005,B0005,B0005.mat,132,0.7408571700903981,0.7340690065229647
+NASA,B0005,B0005,B0005.mat,133,0.746631245442362,0.7402736209834643
+NASA,B0005,B0005,B0005.mat,134,0.7378719555127383,0.7312060584909803
+NASA,B0005,B0005,B0005.mat,135,0.735142495242232,0.7271157664576874
+NASA,B0005,B0005,B0005.mat,136,0.7295077959801872,0.7234753314814456
+NASA,B0005,B0005,B0005.mat,137,0.7296799787853683,0.7227776485345899
+NASA,B0005,B0005,B0005.mat,138,0.7297134934112401,0.7219353923985181
+NASA,B0005,B0005,B0005.mat,139,0.7268107407422197,0.7197539906541696
+NASA,B0005,B0005,B0005.mat,140,0.7240497181525036,0.7167375006427961
+NASA,B0005,B0005,B0005.mat,141,0.7212499067079483,0.7140570517750618
+NASA,B0005,B0005,B0005.mat,142,0.721208508070922,0.7139407490998797
+NASA,B0005,B0005,B0005.mat,143,0.7185648881952921,0.711611583749338
+NASA,B0005,B0005,B0005.mat,144,0.7156765060826296,0.7084479817200071
+NASA,B0005,B0005,B0005.mat,145,0.7127281792431958,0.7059399285608807
+NASA,B0005,B0005,B0005.mat,146,0.7100339835664494,0.7032256360399982
+NASA,B0005,B0005,B0005.mat,147,0.7101941165230103,0.703252116639855
+NASA,B0005,B0005,B0005.mat,148,0.7101007124097442,0.702365761883618
+NASA,B0005,B0005,B0005.mat,149,0.7131060557689289,0.7063480381950056
+NASA,B0005,B0005,B0005.mat,150,0.7326317762261326,0.725241935064509
+NASA,B0005,B0005,B0005.mat,151,0.721540405700353,0.715080831992556
+NASA,B0005,B0005,B0005.mat,152,0.7158834698305493,0.7093343476177615
+NASA,B0005,B0005,B0005.mat,153,0.7129992439790138,0.7062666750555013
+NASA,B0005,B0005,B0005.mat,154,0.7102843154047166,0.7031955766132151
+NASA,B0005,B0005,B0005.mat,155,0.7075055383642601,0.7011430334638149
+NASA,B0005,B0005,B0005.mat,156,0.7073584494666222,0.6996880804696469
+NASA,B0005,B0005,B0005.mat,157,0.704446461650727,0.6979337333057473
+NASA,B0005,B0005,B0005.mat,158,0.7018808229071344,0.6951959472901954
+NASA,B0005,B0005,B0005.mat,159,0.7020555815721221,0.694623761067123
+NASA,B0005,B0005,B0005.mat,160,0.7020839620292978,0.6941657334331127
+NASA,B0005,B0005,B0005.mat,161,0.699109008817086,0.6923477809746182
+NASA,B0005,B0005,B0005.mat,162,0.6992094269724848,0.6914654064068227
+NASA,B0005,B0005,B0005.mat,163,0.6967263011532883,0.6898410010599193
+NASA,B0005,B0005,B0005.mat,164,0.6937851440175622,0.6871875092593519
+NASA,B0005,B0005,B0005.mat,165,0.6934884167276275,0.6860874812533353
+NASA,B0005,B0005,B0005.mat,166,0.705103277055252,0.6989261876960741
+NASA,B0005,B0005,B0005.mat,167,0.7137561578838874,0.7067326913736471
+NASA,B0006,B0006,B0006.mat,0,1.0,0.9991425536607289
+NASA,B0006,B0006,B0006.mat,1,0.9949898508143074,0.9937682399440915
+NASA,B0006,B0006,B0006.mat,2,0.9891854698908897,0.9892003671241268
+NASA,B0006,B0006,B0006.mat,3,0.9891649790372313,0.9837222204997359
+NASA,B0006,B0006,B0006.mat,4,0.9828975529491258,0.9812197139959911
+NASA,B0006,B0006,B0006.mat,5,0.989466850557287,0.9901694186710831
+NASA,B0006,B0006,B0006.mat,6,0.98907479256665,0.9879616453078042
+NASA,B0006,B0006,B0006.mat,7,0.9673038197560735,0.9671210137534548
+NASA,B0006,B0006,B0006.mat,8,0.9669974087497759,0.9616621779731732
+NASA,B0006,B0006,B0006.mat,9,0.9616246466459876,0.9594971434951755
+NASA,B0006,B0006,B0006.mat,10,0.9559098009149796,0.9554747915626768
+NASA,B0006,B0006,B0006.mat,11,0.9505796547137972,0.9450111507922166
+NASA,B0006,B0006,B0006.mat,12,0.9449439554578114,0.9398568739666816
+NASA,B0006,B0006,B0006.mat,13,0.939347820920401,0.9384762910774137
+NASA,B0006,B0006,B0006.mat,14,0.9340301690486008,0.9318203184752802
+NASA,B0006,B0006,B0006.mat,15,0.9281993331989463,0.9261002642477087
+NASA,B0006,B0006,B0006.mat,16,0.9228338240050139,0.9225741206667937
+NASA,B0006,B0006,B0006.mat,17,0.9175724579573611,0.915996324413647
+NASA,B0006,B0006,B0006.mat,18,0.9175820589657847,0.9136203119714351
+NASA,B0006,B0006,B0006.mat,19,0.9726281070025072,0.9725165734026507
+NASA,B0006,B0006,B0006.mat,20,0.9617814345585967,0.9621994735699075
+NASA,B0006,B0006,B0006.mat,21,0.956015859814876,0.9549384631587526
+NASA,B0006,B0006,B0006.mat,22,0.945418647339628,0.9454153990095058
+NASA,B0006,B0006,B0006.mat,23,0.9560974757905958,0.9507105219025004
+NASA,B0006,B0006,B0006.mat,24,0.9341978151219875,0.9295869532008947
+NASA,B0006,B0006,B0006.mat,25,0.923028308415357,0.9219547070919393
+NASA,B0006,B0006,B0006.mat,26,0.9179342734506019,0.9196338031125365
+NASA,B0006,B0006,B0006.mat,27,0.9119000283836427,0.912243319034732
+NASA,B0006,B0006,B0006.mat,28,0.9065816915777205,0.9026813511803293
+NASA,B0006,B0006,B0006.mat,29,0.9124918141799352,0.9131121247955981
+NASA,B0006,B0006,B0006.mat,30,0.9456790349742867,0.944240018180392
+NASA,B0006,B0006,B0006.mat,31,0.9247761948322795,0.923159182206195
+NASA,B0006,B0006,B0006.mat,32,0.9115326597829658,0.9114168579512842
+NASA,B0006,B0006,B0006.mat,33,0.9036588818710266,0.9032221204513124
+NASA,B0006,B0006,B0006.mat,34,0.8934830346748316,0.8918951481141164
+NASA,B0006,B0006,B0006.mat,35,0.8909956824708977,0.8903421263303812
+NASA,B0006,B0006,B0006.mat,36,0.8829502550201761,0.8817752078013155
+NASA,B0006,B0006,B0006.mat,37,0.8750413873759919,0.8734474353938176
+NASA,B0006,B0006,B0006.mat,38,0.8701323309187394,0.8683486812441769
+NASA,B0006,B0006,B0006.mat,39,0.864952945691579,0.8636012973402167
+NASA,B0006,B0006,B0006.mat,40,0.859951384249673,0.8597004561195288
+NASA,B0006,B0006,B0006.mat,41,0.8546456919285944,0.8533444023575757
+NASA,B0006,B0006,B0006.mat,42,0.8621059538809914,0.8609594554664508
+NASA,B0006,B0006,B0006.mat,43,0.867639403894526,0.8668236778048177
+NASA,B0006,B0006,B0006.mat,44,0.8518433254632082,0.8507167368299009
+NASA,B0006,B0006,B0006.mat,45,0.8417895486292435,0.8404630384876914
+NASA,B0006,B0006,B0006.mat,46,0.8364252637451849,0.8351301391941279
+NASA,B0006,B0006,B0006.mat,47,0.8960279954741002,0.8971766248436779
+NASA,B0006,B0006,B0006.mat,48,0.8883678132914206,0.8872225614152246
+NASA,B0006,B0006,B0006.mat,49,0.8724651391251901,0.8712667148570145
+NASA,B0006,B0006,B0006.mat,50,0.8572243699983239,0.8557004528432353
+NASA,B0006,B0006,B0006.mat,51,0.8495922454210777,0.8492944656489017
+NASA,B0006,B0006,B0006.mat,52,0.8392262113192732,0.8384715874990912
+NASA,B0006,B0006,B0006.mat,53,0.8340608610817466,0.8333002297571561
+NASA,B0006,B0006,B0006.mat,54,0.8264297086813447,0.825982031511992
+NASA,B0006,B0006,B0006.mat,55,0.821228301199745,0.8205967754112056
+NASA,B0006,B0006,B0006.mat,56,0.8159624948921792,0.8144198255874802
+NASA,B0006,B0006,B0006.mat,57,0.8112271017518528,0.8096615854588473
+NASA,B0006,B0006,B0006.mat,58,0.8058294274458677,0.8049893868775282
+NASA,B0006,B0006,B0006.mat,59,0.8004568622012265,0.7995031588185306
+NASA,B0006,B0006,B0006.mat,60,0.7904583678923177,0.7903560830688885
+NASA,B0006,B0006,B0006.mat,61,0.7878420253146665,0.786187826228505
+NASA,B0006,B0006,B0006.mat,62,0.7856049146190022,0.7848623836646349
+NASA,B0006,B0006,B0006.mat,63,0.780031440176547,0.7787345966473607
+NASA,B0006,B0006,B0006.mat,64,0.7777441842886215,0.7774940935127437
+NASA,B0006,B0006,B0006.mat,65,0.7699644735295673,0.7691887789922475
+NASA,B0006,B0006,B0006.mat,66,0.7671182514739364,0.7661150865551857
+NASA,B0006,B0006,B0006.mat,67,0.762119854776846,0.7616192558255354
+NASA,B0006,B0006,B0006.mat,68,0.7569624653118686,0.7582646012506808
+NASA,B0006,B0006,B0006.mat,69,0.7494156650980108,0.750864636414156
+NASA,B0006,B0006,B0006.mat,70,0.7517952002501654,0.7512421090638903
+NASA,B0006,B0006,B0006.mat,71,0.7490927746753414,0.7479064566545929
+NASA,B0006,B0006,B0006.mat,72,0.744126824640059,0.7442805847150854
+NASA,B0006,B0006,B0006.mat,73,0.7415927024943012,0.7411625135976972
+NASA,B0006,B0006,B0006.mat,74,0.7389424928579005,0.7381407950396331
+NASA,B0006,B0006,B0006.mat,75,0.7337948251946333,0.7337250791217783
+NASA,B0006,B0006,B0006.mat,76,0.7309019933714036,0.7321047514630685
+NASA,B0006,B0006,B0006.mat,77,0.7518593614163546,0.7535922421862663
+NASA,B0006,B0006,B0006.mat,78,0.7389810985080334,0.7385018833457099
+NASA,B0006,B0006,B0006.mat,79,0.7314557385723608,0.7318729782111922
+NASA,B0006,B0006,B0006.mat,80,0.7263060118809538,0.7259429748969617
+NASA,B0006,B0006,B0006.mat,81,0.7263954583009604,0.725973525908075
+NASA,B0006,B0006,B0006.mat,82,0.7238184227571322,0.7238939733915628
+NASA,B0006,B0006,B0006.mat,83,0.7210187145326269,0.7204353787596011
+NASA,B0006,B0006,B0006.mat,84,0.7132130179126343,0.7150598161736688
+NASA,B0006,B0006,B0006.mat,85,0.7133577144710262,0.7125969222234965
+NASA,B0006,B0006,B0006.mat,86,0.711011517633683,0.7114561273025073
+NASA,B0006,B0006,B0006.mat,87,0.7108667461161282,0.7104715493677903
+NASA,B0006,B0006,B0006.mat,88,0.708321901683239,0.7086241645464628
+NASA,B0006,B0006,B0006.mat,89,0.7829593804744059,0.782752334109653
+NASA,B0006,B0006,B0006.mat,90,0.759770882494014,0.7598247790933936
+NASA,B0006,B0006,B0006.mat,91,0.7442036144029749,0.7437321782037837
+NASA,B0006,B0006,B0006.mat,92,0.7364766488653811,0.7354254803650168
+NASA,B0006,B0006,B0006.mat,93,0.7286806282628964,0.7284334415827223
+NASA,B0006,B0006,B0006.mat,94,0.7236963976177928,0.7227386443065025
+NASA,B0006,B0006,B0006.mat,95,0.7186819749578868,0.7188150121090163
+NASA,B0006,B0006,B0006.mat,96,0.7133148203630159,0.7151088076573554
+NASA,B0006,B0006,B0006.mat,97,0.7108732579778997,0.710210803116965
+NASA,B0006,B0006,B0006.mat,98,0.7081775553094546,0.7072514976663518
+NASA,B0006,B0006,B0006.mat,99,0.7031810109956533,0.7052054558015705
+NASA,B0006,B0006,B0006.mat,100,0.7006330174681323,0.702292773128351
+NASA,B0006,B0006,B0006.mat,101,0.6979125508434085,0.698273468818594
+NASA,B0006,B0006,B0006.mat,102,0.6980171885557206,0.7004142213230672
+NASA,B0006,B0006,B0006.mat,103,0.7135208482113887,0.7138961414781131
+NASA,B0006,B0006,B0006.mat,104,0.7033514435633659,0.7032973460032332
+NASA,B0006,B0006,B0006.mat,105,0.6952241030736463,0.6968098652711721
+NASA,B0006,B0006,B0006.mat,106,0.6926276785146194,0.6924881566363918
+NASA,B0006,B0006,B0006.mat,107,0.6902625512041874,0.690227386712899
+NASA,B0006,B0006,B0006.mat,108,0.6854707065486149,0.6863907585730716
+NASA,B0006,B0006,B0006.mat,109,0.6851612181802287,0.6852828770072489
+NASA,B0006,B0006,B0006.mat,110,0.6825978766720686,0.682242021010809
+NASA,B0006,B0006,B0006.mat,111,0.6799058560840853,0.6799607460252794
+NASA,B0006,B0006,B0006.mat,112,0.674915763306282,0.6768720452612248
+NASA,B0006,B0006,B0006.mat,113,0.6773352957654757,0.6772149760435894
+NASA,B0006,B0006,B0006.mat,114,0.6749543839713218,0.6748098162285019
+NASA,B0006,B0006,B0006.mat,115,0.6722511609085237,0.6717114356408029
+NASA,B0006,B0006,B0006.mat,116,0.6698163536881292,0.66930115403703
+NASA,B0006,B0006,B0006.mat,117,0.6672586503678076,0.6677991510808589
+NASA,B0006,B0006,B0006.mat,118,0.6648867966571198,0.6673425907383205
+NASA,B0006,B0006,B0006.mat,119,0.6800643686533974,0.6809310504440207
+NASA,B0006,B0006,B0006.mat,120,0.6903752897183545,0.6903013019588781
+NASA,B0006,B0006,B0006.mat,121,0.6773908312410081,0.6792922179465851
+NASA,B0006,B0006,B0006.mat,122,0.6722549538545536,0.6723084243356973
+NASA,B0006,B0006,B0006.mat,123,0.6668746922672389,0.6684023833556665
+NASA,B0006,B0006,B0006.mat,124,0.6645057163278422,0.6648193030285319
+NASA,B0006,B0006,B0006.mat,125,0.6620080723318286,0.66145038929547
+NASA,B0006,B0006,B0006.mat,126,0.656897174696045,0.6590045184478172
+NASA,B0006,B0006,B0006.mat,127,0.6540611751852576,0.6560304458941209
+NASA,B0006,B0006,B0006.mat,128,0.6514547680110712,0.651418021670172
+NASA,B0006,B0006,B0006.mat,129,0.6493167274597319,0.6509045418271391
+NASA,B0006,B0006,B0006.mat,130,0.6491429627717592,0.6490261329113419
+NASA,B0006,B0006,B0006.mat,131,0.6464031008911139,0.6464479123874833
+NASA,B0006,B0006,B0006.mat,132,0.648984510278524,0.6496189199479661
+NASA,B0006,B0006,B0006.mat,133,0.6620193537828117,0.6621521443413113
+NASA,B0006,B0006,B0006.mat,134,0.6514952669744675,0.652054057563402
+NASA,B0006,B0006,B0006.mat,135,0.6436861797633369,0.646158980863452
+NASA,B0006,B0006,B0006.mat,136,0.6412775001365069,0.6416063024649948
+NASA,B0006,B0006,B0006.mat,137,0.6389142523000749,0.6409218703009226
+NASA,B0006,B0006,B0006.mat,138,0.6388305024124815,0.6391098693569385
+NASA,B0006,B0006,B0006.mat,139,0.6335591097744968,0.6355695856260509
+NASA,B0006,B0006,B0006.mat,140,0.6285213141239901,0.6308080084199547
+NASA,B0006,B0006,B0006.mat,141,0.6284990867482796,0.628428558892327
+NASA,B0006,B0006,B0006.mat,142,0.6259584486293798,0.6281314789297983
+NASA,B0006,B0006,B0006.mat,143,0.6260029775555019,0.625705694011988
+NASA,B0006,B0006,B0006.mat,144,0.6209112179860495,0.6206668465630326
+NASA,B0006,B0006,B0006.mat,145,0.618146775481072,0.6180991489054063
+NASA,B0006,B0006,B0006.mat,146,0.6157503647520722,0.6173515741687338
+NASA,B0006,B0006,B0006.mat,147,0.6157363461901961,0.6177109457247989
+NASA,B0006,B0006,B0006.mat,148,0.613209082142838,0.6131723275962291
+NASA,B0006,B0006,B0006.mat,149,0.6158366228941904,0.6161225470599454
+NASA,B0006,B0006,B0006.mat,150,0.6337056235911395,0.6342023888625326
+NASA,B0006,B0006,B0006.mat,151,0.620801290046241,0.6208594985052908
+NASA,B0006,B0006,B0006.mat,152,0.6131543858862738,0.6134424860724557
+NASA,B0006,B0006,B0006.mat,153,0.6053640895934027,0.6075401366718436
+NASA,B0006,B0006,B0006.mat,154,0.6029042906907026,0.6044003570361548
+NASA,B0006,B0006,B0006.mat,155,0.6002639382954212,0.6002207563622267
+NASA,B0006,B0006,B0006.mat,156,0.5950377393250057,0.5965938484864276
+NASA,B0006,B0006,B0006.mat,157,0.5923420182680926,0.5940011546661282
+NASA,B0006,B0006,B0006.mat,158,0.5900218379391315,0.5918527596780198
+NASA,B0006,B0006,B0006.mat,159,0.5849596665522201,0.5868064882090971
+NASA,B0006,B0006,B0006.mat,160,0.5823010670462684,0.5840081455575276
+NASA,B0006,B0006,B0006.mat,161,0.5795946024028492,0.581931922162633
+NASA,B0006,B0006,B0006.mat,162,0.5771009629390571,0.57847097364646
+NASA,B0006,B0006,B0006.mat,163,0.5668928519254556,0.5691208635011603
+NASA,B0006,B0006,B0006.mat,164,0.5720922960804411,0.571779132091814
+NASA,B0006,B0006,B0006.mat,165,0.5693392093343496,0.5707739976196515
+NASA,B0006,B0006,B0006.mat,166,0.5772874675283711,0.580309712415985
+NASA,B0006,B0006,B0006.mat,167,0.582544752296905,0.5838486274946727
+NASA,B0007,B0007,B0007.mat,0,1.0,1.0077174333977728
+NASA,B0007,B0007,B0007.mat,1,0.9944923428456648,1.0039857634338918
+NASA,B0007,B0007,B0007.mat,2,0.9945059035569906,1.0032323064543645
+NASA,B0007,B0007,B0007.mat,3,0.9945631358622364,1.0024586880607396
+NASA,B0007,B0007,B0007.mat,4,0.9938650969142624,1.0017881199997456
+NASA,B0007,B0007,B0007.mat,5,0.9945258289766596,1.0001496231670965
+NASA,B0007,B0007,B0007.mat,6,0.9941212397661985,0.9981571515236725
+NASA,B0007,B0007,B0007.mat,7,0.9949533479268811,0.9987392597888773
+NASA,B0007,B0007,B0007.mat,8,0.9887039039563995,0.9976425613324277
+NASA,B0007,B0007,B0007.mat,9,0.9888951165957833,0.9974691275277282
+NASA,B0007,B0007,B0007.mat,10,0.9888908117331621,0.996689008002799
+NASA,B0007,B0007,B0007.mat,11,0.9833952785490447,0.993265045796994
+NASA,B0007,B0007,B0007.mat,12,0.9830900290898824,0.9929697285412277
+NASA,B0007,B0007,B0007.mat,13,0.9830550230165661,0.9914776558356015
+NASA,B0007,B0007,B0007.mat,14,0.9832421151057928,0.9899670763985889
+NASA,B0007,B0007,B0007.mat,15,0.9829107051087616,0.987802711477716
+NASA,B0007,B0007,B0007.mat,16,0.977137065868551,0.9802831389082397
+NASA,B0007,B0007,B0007.mat,17,0.9775114607455649,0.979024120815859
+NASA,B0007,B0007,B0007.mat,18,0.9774340753850292,0.9769160551910185
+NASA,B0007,B0007,B0007.mat,19,0.9945682350219243,1.0036089339449001
+NASA,B0007,B0007,B0007.mat,20,0.9949339657767368,1.0032811911860013
+NASA,B0007,B0007,B0007.mat,21,0.994734749488113,1.0007658998184623
+NASA,B0007,B0007,B0007.mat,22,0.9894009644991608,0.9981682429836018
+NASA,B0007,B0007,B0007.mat,23,0.9889729225111973,0.9971630638270079
+NASA,B0007,B0007,B0007.mat,24,0.9892225301434724,0.9894980286815019
+NASA,B0007,B0007,B0007.mat,25,0.9833744254109715,0.987018426191573
+NASA,B0007,B0007,B0007.mat,26,0.9835972882674648,0.9849148912688385
+NASA,B0007,B0007,B0007.mat,27,0.9831379679174215,0.9821126222945268
+NASA,B0007,B0007,B0007.mat,28,0.9773076198804469,0.9810097314737433
+NASA,B0007,B0007,B0007.mat,29,0.9778691507545129,0.9786543058302949
+NASA,B0007,B0007,B0007.mat,30,0.9959892428071969,1.0053753412242235
+NASA,B0007,B0007,B0007.mat,31,0.9850711777410832,0.987903492224577
+NASA,B0007,B0007,B0007.mat,32,0.9793938772431541,0.9837619411094221
+NASA,B0007,B0007,B0007.mat,33,0.9766786827220949,0.9794479048072042
+NASA,B0007,B0007,B0007.mat,34,0.9713260895248977,0.9754938645728298
+NASA,B0007,B0007,B0007.mat,35,0.9715024626474299,0.9748534126741216
+NASA,B0007,B0007,B0007.mat,36,0.9685994738677316,0.9713625102408888
+NASA,B0007,B0007,B0007.mat,37,0.9630337032828774,0.9674534150331083
+NASA,B0007,B0007,B0007.mat,38,0.960579512231908,0.9640822214564936
+NASA,B0007,B0007,B0007.mat,39,0.9578696287593303,0.9619588746130698
+NASA,B0007,B0007,B0007.mat,40,0.9579881200586186,0.961245492732999
+NASA,B0007,B0007,B0007.mat,41,0.9550528559986308,0.958853779491301
+NASA,B0007,B0007,B0007.mat,42,0.9588334426916011,0.9585472019474004
+NASA,B0007,B0007,B0007.mat,43,0.955163534203101,0.958339602622828
+NASA,B0007,B0007,B0007.mat,44,0.9496464108196084,0.9529278898133525
+NASA,B0007,B0007,B0007.mat,45,0.9443870295876657,0.9485207858892856
+NASA,B0007,B0007,B0007.mat,46,0.9414477139472057,0.9446090336330696
+NASA,B0007,B0007,B0007.mat,47,0.959823107156573,0.96414126551936
+NASA,B0007,B0007,B0007.mat,48,0.9601545763224729,0.9647135283132073
+NASA,B0007,B0007,B0007.mat,49,0.9519796053200333,0.9563615330938682
+NASA,B0007,B0007,B0007.mat,50,0.9467996336880419,0.9507460873748813
+NASA,B0007,B0007,B0007.mat,51,0.9414562657201504,0.9508931925526596
+NASA,B0007,B0007,B0007.mat,52,0.9388046929870528,0.9466344050666513
+NASA,B0007,B0007,B0007.mat,53,0.9361258690667021,0.9439680804474875
+NASA,B0007,B0007,B0007.mat,54,0.9307416120348377,0.9387143112100337
+NASA,B0007,B0007,B0007.mat,55,0.9252243302854406,0.9339297510300041
+NASA,B0007,B0007,B0007.mat,56,0.9252256425292258,0.9319896670985728
+NASA,B0007,B0007,B0007.mat,57,0.9227818519180979,0.929814652464601
+NASA,B0007,B0007,B0007.mat,58,0.9199352919899929,0.9273585159877642
+NASA,B0007,B0007,B0007.mat,59,0.9140753177397375,0.923308421001082
+NASA,B0007,B0007,B0007.mat,60,0.9116090172599749,0.9195623367562932
+NASA,B0007,B0007,B0007.mat,61,0.9063624955407813,0.9149441725493698
+NASA,B0007,B0007,B0007.mat,62,0.9063579065888634,0.9137596842374911
+NASA,B0007,B0007,B0007.mat,63,0.9009016416501656,0.9095472036275326
+NASA,B0007,B0007,B0007.mat,64,0.9010928738414982,0.9080157020878561
+NASA,B0007,B0007,B0007.mat,65,0.8955710108399318,0.9034008344138482
+NASA,B0007,B0007,B0007.mat,66,0.8924437153331117,0.8998003183099481
+NASA,B0007,B0007,B0007.mat,67,0.8900200379231206,0.8972718549560346
+NASA,B0007,B0007,B0007.mat,68,0.8872980500287017,0.894678253186484
+NASA,B0007,B0007,B0007.mat,69,0.884801563486559,0.8918654921012238
+NASA,B0007,B0007,B0007.mat,70,0.8817507188402843,0.888827010210668
+NASA,B0007,B0007,B0007.mat,71,0.8790165492082501,0.8859689323769061
+NASA,B0007,B0007,B0007.mat,72,0.87645609305257,0.8828419417393641
+NASA,B0007,B0007,B0007.mat,73,0.8738725464951953,0.8802893383349419
+NASA,B0007,B0007,B0007.mat,74,0.8710586517211737,0.8773939431144131
+NASA,B0007,B0007,B0007.mat,75,0.8653455460107404,0.874337737094904
+NASA,B0007,B0007,B0007.mat,76,0.8652618625053486,0.8746415608322325
+NASA,B0007,B0007,B0007.mat,77,0.8678338421514901,0.8766978707243741
+NASA,B0007,B0007,B0007.mat,78,0.8627842196339309,0.8700029605161089
+NASA,B0007,B0007,B0007.mat,79,0.8573074826850354,0.8660620656420035
+NASA,B0007,B0007,B0007.mat,80,0.8547766370163623,0.8640125942890154
+NASA,B0007,B0007,B0007.mat,81,0.8544573379066747,0.8632271885059457
+NASA,B0007,B0007,B0007.mat,82,0.8549336177737964,0.8621462576772279
+NASA,B0007,B0007,B0007.mat,83,0.851835557535501,0.8586809225227096
+NASA,B0007,B0007,B0007.mat,84,0.8464389595847521,0.8549403164386065
+NASA,B0007,B0007,B0007.mat,85,0.8439308910654777,0.851623834853985
+NASA,B0007,B0007,B0007.mat,86,0.8440897990165642,0.8510306268653057
+NASA,B0007,B0007,B0007.mat,87,0.8438722267771133,0.8500764682412416
+NASA,B0007,B0007,B0007.mat,88,0.8411458456358337,0.8487537014042845
+NASA,B0007,B0007,B0007.mat,89,0.893058917673428,0.9031301588799808
+NASA,B0007,B0007,B0007.mat,90,0.8598354640622486,0.8690128734932482
+NASA,B0007,B0007,B0007.mat,91,0.8544149679093845,0.8628571385991758
+NASA,B0007,B0007,B0007.mat,92,0.8490842270191371,0.8578799096261152
+NASA,B0007,B0007,B0007.mat,93,0.8434323556466374,0.8531435838502534
+NASA,B0007,B0007,B0007.mat,94,0.8410186475348281,0.8495927649455137
+NASA,B0007,B0007,B0007.mat,95,0.8383436619721834,0.8475273977906046
+NASA,B0007,B0007,B0007.mat,96,0.8354997471911441,0.8443863154376325
+NASA,B0007,B0007,B0007.mat,97,0.8329851852152426,0.8419819607445779
+NASA,B0007,B0007,B0007.mat,98,0.8301190234003898,0.8391497040514786
+NASA,B0007,B0007,B0007.mat,99,0.830361244595057,0.8374087131567705
+NASA,B0007,B0007,B0007.mat,100,0.8277136902689282,0.8350992522327753
+NASA,B0007,B0007,B0007.mat,101,0.8247439467235069,0.8335967678557686
+NASA,B0007,B0007,B0007.mat,102,0.8275720651161599,0.8362449434180905
+NASA,B0007,B0007,B0007.mat,103,0.8328587758683834,0.8415831262345652
+NASA,B0007,B0007,B0007.mat,104,0.8277302117414882,0.8357153280144828
+NASA,B0007,B0007,B0007.mat,105,0.8248082304608076,0.8321017223613894
+NASA,B0007,B0007,B0007.mat,106,0.8195953593923267,0.8272067744736475
+NASA,B0007,B0007,B0007.mat,107,0.8164116650277282,0.8263924327465131
+NASA,B0007,B0007,B0007.mat,108,0.8170153478223752,0.8253439179035484
+NASA,B0007,B0007,B0007.mat,109,0.816790746176111,0.8236137357640276
+NASA,B0007,B0007,B0007.mat,110,0.8113517938745419,0.8203937030240798
+NASA,B0007,B0007,B0007.mat,111,0.8084178306554588,0.8177287119920729
+NASA,B0007,B0007,B0007.mat,112,0.8085054171397351,0.8170315251705424
+NASA,B0007,B0007,B0007.mat,113,0.8085930007647584,0.8165395349472452
+NASA,B0007,B0007,B0007.mat,114,0.8058507616000151,0.8142355859660463
+NASA,B0007,B0007,B0007.mat,115,0.8030806686899293,0.8120042520356894
+NASA,B0007,B0007,B0007.mat,116,0.8004264241301146,0.8091996187398997
+NASA,B0007,B0007,B0007.mat,117,0.8004035754125528,0.8089022770474563
+NASA,B0007,B0007,B0007.mat,118,0.8005844498202711,0.8088199986911403
+NASA,B0007,B0007,B0007.mat,119,0.8111673712327889,0.8187049348261665
+NASA,B0007,B0007,B0007.mat,120,0.8139051911027366,0.8209279083806215
+NASA,B0007,B0007,B0007.mat,121,0.8057020955991137,0.8135431032137997
+NASA,B0007,B0007,B0007.mat,122,0.8003910347947992,0.8098147877891119
+NASA,B0007,B0007,B0007.mat,123,0.797325953734772,0.8063605832814382
+NASA,B0007,B0007,B0007.mat,124,0.7948992586125676,0.8040510982201406
+NASA,B0007,B0007,B0007.mat,125,0.7920574504207775,0.8014089544521943
+NASA,B0007,B0007,B0007.mat,126,0.7894274199989884,0.7986794644075472
+NASA,B0007,B0007,B0007.mat,127,0.7891978415957107,0.7961393700552856
+NASA,B0007,B0007,B0007.mat,128,0.7865899743564149,0.7942129621686332
+NASA,B0007,B0007,B0007.mat,129,0.783973638515397,0.792855607850692
+NASA,B0007,B0007,B0007.mat,130,0.7841070476141841,0.7909677868970323
+NASA,B0007,B0007,B0007.mat,131,0.7810313778074761,0.789240015612343
+NASA,B0007,B0007,B0007.mat,132,0.7836385905485969,0.7929689297570185
+NASA,B0007,B0007,B0007.mat,133,0.792223791768746,0.7987497994998825
+NASA,B0007,B0007,B0007.mat,134,0.7837316424573085,0.7926267265717492
+NASA,B0007,B0007,B0007.mat,135,0.7811077117652985,0.7890806486674942
+NASA,B0007,B0007,B0007.mat,136,0.7784434528297595,0.7865253039699468
+NASA,B0007,B0007,B0007.mat,137,0.778533738725724,0.7855306535844644
+NASA,B0007,B0007,B0007.mat,138,0.7757641979564112,0.784668076138417
+NASA,B0007,B0007,B0007.mat,139,0.7729914466651281,0.7820191848368195
+NASA,B0007,B0007,B0007.mat,140,0.7703093513592872,0.7789669261118717
+NASA,B0007,B0007,B0007.mat,141,0.7674853711324945,0.7764090013345238
+NASA,B0007,B0007,B0007.mat,142,0.7676233649357621,0.7764377430160292
+NASA,B0007,B0007,B0007.mat,143,0.7650852050701119,0.7744021954631698
+NASA,B0007,B0007,B0007.mat,144,0.7650539672029023,0.7724165104442802
+NASA,B0007,B0007,B0007.mat,145,0.7622104114507394,0.7697650467308496
+NASA,B0007,B0007,B0007.mat,146,0.7594954559011889,0.7687956627033887
+NASA,B0007,B0007,B0007.mat,147,0.759796764422933,0.7682243763672729
+NASA,B0007,B0007,B0007.mat,148,0.7595213088960034,0.7672318095908572
+NASA,B0007,B0007,B0007.mat,149,0.7624630662526647,0.7695805025916501
+NASA,B0007,B0007,B0007.mat,150,0.7758676753965592,0.7833549611246643
+NASA,B0007,B0007,B0007.mat,151,0.7677545672975996,0.7758092346216272
+NASA,B0007,B0007,B0007.mat,152,0.7652553971151791,0.7722390298501883
+NASA,B0007,B0007,B0007.mat,153,0.7624276653144856,0.7691794687814558
+NASA,B0007,B0007,B0007.mat,154,0.7570551863639823,0.7663873285597749
+NASA,B0007,B0007,B0007.mat,155,0.7571490373149529,0.7646754028258332
+NASA,B0007,B0007,B0007.mat,156,0.7542130177927987,0.7637198290590328
+NASA,B0007,B0007,B0007.mat,157,0.7541239109930523,0.7608550196759054
+NASA,B0007,B0007,B0007.mat,158,0.7515727378176299,0.7595559919353148
+NASA,B0007,B0007,B0007.mat,159,0.7489625106252409,0.7586666790984893
+NASA,B0007,B0007,B0007.mat,160,0.7490951923277513,0.7567124855674011
+NASA,B0007,B0007,B0007.mat,161,0.7460608976183626,0.7557753599103291
+NASA,B0007,B0007,B0007.mat,162,0.7461427514584917,0.7537585185884986
+NASA,B0007,B0007,B0007.mat,163,0.7435920373366998,0.7527842185427629
+NASA,B0007,B0007,B0007.mat,164,0.7436789830704655,0.7513353621509153
+NASA,B0007,B0007,B0007.mat,165,0.7405692816217144,0.7499690526770626
+NASA,B0007,B0007,B0007.mat,166,0.7518493846367692,0.7589804379902135
+NASA,B0007,B0007,B0007.mat,167,0.7574910940083355,0.7670354802482224
+NASA,B0018,B0018,B0018.mat,0,1.0,1.0004411399307027
+NASA,B0018,B0018,B0018.mat,1,0.993633983664338,0.994719963399285
+NASA,B0018,B0018,B0018.mat,2,0.9916966895859797,0.9937563054751086
+NASA,B0018,B0018,B0018.mat,3,0.9868836350412233,0.9934780688621294
+NASA,B0018,B0018,B0018.mat,4,0.9879761404357094,0.9913404885543231
+NASA,B0018,B0018,B0018.mat,5,0.9857274546289774,0.9888449150337283
+NASA,B0018,B0018,B0018.mat,6,0.9817772243450524,0.9795845654688259
+NASA,B0018,B0018,B0018.mat,7,0.9785259228744274,0.9775313178648452
+NASA,B0018,B0018,B0018.mat,8,0.9726650430627023,0.9737761694722913
+NASA,B0018,B0018,B0018.mat,9,0.9828009634752517,0.9837920859426985
+NASA,B0018,B0018,B0018.mat,10,0.9768846014740459,0.9823602249932564
+NASA,B0018,B0018,B0018.mat,11,0.9728772183488541,0.9703838182563654
+NASA,B0018,B0018,B0018.mat,12,0.9654123910288773,0.9711039277416407
+NASA,B0018,B0018,B0018.mat,13,0.9614373996680884,0.964053938186863
+NASA,B0018,B0018,B0018.mat,14,0.9600723839592448,0.9607334810096664
+NASA,B0018,B0018,B0018.mat,15,0.9548273439880091,0.9560102535075186
+NASA,B0018,B0018,B0018.mat,16,0.9534372449488483,0.9551449446356725
+NASA,B0018,B0018,B0018.mat,17,0.9453510546938519,0.9408929234222374
+NASA,B0018,B0018,B0018.mat,18,0.9413560571253055,0.9400872200248876
+NASA,B0018,B0018,B0018.mat,19,0.9367442042482638,0.9393008718314007
+NASA,B0018,B0018,B0018.mat,20,0.933429894181155,0.9316872559059226
+NASA,B0018,B0018,B0018.mat,21,0.9210732212762566,0.9244035771048521
+NASA,B0018,B0018,B0018.mat,22,0.9226230652733616,0.9248035008401934
+NASA,B0018,B0018,B0018.mat,23,0.9204840841029782,0.9201455484309539
+NASA,B0018,B0018,B0018.mat,24,0.9429832579006578,0.9436154071924372
+NASA,B0018,B0018,B0018.mat,25,0.934105386440806,0.9411015521331572
+NASA,B0018,B0018,B0018.mat,26,0.9284243318688938,0.9270624695317176
+NASA,B0018,B0018,B0018.mat,27,0.9228259445182906,0.9266648538646137
+NASA,B0018,B0018,B0018.mat,28,0.916045117993578,0.9185929217226955
+NASA,B0018,B0018,B0018.mat,29,0.9132250757005568,0.9139435170903546
+NASA,B0018,B0018,B0018.mat,30,0.9066838862255429,0.9081023828542476
+NASA,B0018,B0018,B0018.mat,31,0.9040285579078848,0.9045985874135469
+NASA,B0018,B0018,B0018.mat,32,0.8978538391580942,0.9007928186308725
+NASA,B0018,B0018,B0018.mat,33,0.8933630290434469,0.8967500964363686
+NASA,B0018,B0018,B0018.mat,34,0.8885283766459535,0.8931417491825445
+NASA,B0018,B0018,B0018.mat,35,0.8834318900203323,0.8896545427704979
+NASA,B0018,B0018,B0018.mat,36,0.8774365089051547,0.8811012801827319
+NASA,B0018,B0018,B0018.mat,37,0.8744742581978935,0.8791858269383059
+NASA,B0018,B0018,B0018.mat,38,0.8700823275398015,0.8728983234042361
+NASA,B0018,B0018,B0018.mat,39,0.903529666185232,0.9116327820657256
+NASA,B0018,B0018,B0018.mat,40,0.8891086916860135,0.8899169118600312
+NASA,B0018,B0018,B0018.mat,41,0.8799886865838726,0.8853562089901313
+NASA,B0018,B0018,B0018.mat,42,0.8713811496336645,0.8713996432355109
+NASA,B0018,B0018,B0018.mat,43,0.8684091169427205,0.8717335524215911
+NASA,B0018,B0018,B0018.mat,44,0.8600862431802415,0.8610969486218415
+NASA,B0018,B0018,B0018.mat,45,0.930837321813855,0.9329633030976173
+NASA,B0018,B0018,B0018.mat,46,0.9253710017973062,0.9240138083076498
+NASA,B0018,B0018,B0018.mat,47,0.914188368861919,0.9139379817549423
+NASA,B0018,B0018,B0018.mat,48,0.9044605014567585,0.9053455646721914
+NASA,B0018,B0018,B0018.mat,49,0.895231613273491,0.8961462532540312
+NASA,B0018,B0018,B0018.mat,50,0.8983325424846361,0.9004998017678002
+NASA,B0018,B0018,B0018.mat,51,0.8877787622525443,0.8899539488106665
+NASA,B0018,B0018,B0018.mat,52,0.8764205017595725,0.8782248107447468
+NASA,B0018,B0018,B0018.mat,53,0.8690856130635961,0.8604470808041514
+NASA,B0018,B0018,B0018.mat,54,0.8656241342693628,0.8692050304012096
+NASA,B0018,B0018,B0018.mat,55,0.9022324722778301,0.9045984185208629
+NASA,B0018,B0018,B0018.mat,56,0.8843293042409497,0.8871473266053661
+NASA,B0018,B0018,B0018.mat,57,0.8696826954654632,0.8732432324884517
+NASA,B0018,B0018,B0018.mat,58,0.8582709177386076,0.863438620743298
+NASA,B0018,B0018,B0018.mat,59,0.855308525821416,0.8576495730379183
+NASA,B0018,B0018,B0018.mat,60,0.851791265910117,0.853763460683198
+NASA,B0018,B0018,B0018.mat,61,0.8432180503052695,0.8485815914128091
+NASA,B0018,B0018,B0018.mat,62,0.8386061892347928,0.8394548454334481
+NASA,B0018,B0018,B0018.mat,63,0.8302969133503282,0.8359538294190328
+NASA,B0018,B0018,B0018.mat,64,0.8259609528835993,0.8293948343929515
+NASA,B0018,B0018,B0018.mat,65,0.8256708936300426,0.8302020416994582
+NASA,B0018,B0018,B0018.mat,66,0.8206231187124103,0.8211543551286837
+NASA,B0018,B0018,B0018.mat,67,0.8121418011653458,0.8155998910528032
+NASA,B0018,B0018,B0018.mat,68,0.8093899172887186,0.8145997367078561
+NASA,B0018,B0018,B0018.mat,69,0.8066575552659644,0.8083246517252062
+NASA,B0018,B0018,B0018.mat,70,0.826642837170715,0.8415237993877446
+NASA,B0018,B0018,B0018.mat,71,0.8214779265683784,0.8197351859322024
+NASA,B0018,B0018,B0018.mat,72,0.8092660058779416,0.811146749216764
+NASA,B0018,B0018,B0018.mat,73,0.8045358675534857,0.8073777281221871
+NASA,B0018,B0018,B0018.mat,74,0.799633550923934,0.8048351641212492
+NASA,B0018,B0018,B0018.mat,75,0.7982393911352555,0.8039598831933521
+NASA,B0018,B0018,B0018.mat,76,0.7943418813674149,0.7937106949802278
+NASA,B0018,B0018,B0018.mat,77,0.7913831307756389,0.7978710297484188
+NASA,B0018,B0018,B0018.mat,78,0.7860316993136419,0.7870436833699986
+NASA,B0018,B0018,B0018.mat,79,0.7805189058362433,0.7838569092710237
+NASA,B0018,B0018,B0018.mat,80,0.7831683758563823,0.7867486426395605
+NASA,B0018,B0018,B0018.mat,81,0.7776453481817188,0.7797649702806679
+NASA,B0018,B0018,B0018.mat,82,0.7758855957432074,0.778994770357416
+NASA,B0018,B0018,B0018.mat,83,0.7701585371768062,0.7721554508899711
+NASA,B0018,B0018,B0018.mat,84,0.7681397317526905,0.7735716076795077
+NASA,B0018,B0018,B0018.mat,85,0.7923492994106556,0.7974056767128301
+NASA,B0018,B0018,B0018.mat,86,0.7830611455790711,0.7877464879179875
+NASA,B0018,B0018,B0018.mat,87,0.7778062979024363,0.7794924548280341
+NASA,B0018,B0018,B0018.mat,88,0.7700121712904541,0.7723904470672507
+NASA,B0018,B0018,B0018.mat,89,0.7630465417051595,0.763379929528385
+NASA,B0018,B0018,B0018.mat,90,0.7841364556121901,0.7874957815791662
+NASA,B0018,B0018,B0018.mat,91,0.7699808484662279,0.7734145339827214
+NASA,B0018,B0018,B0018.mat,92,0.7653365112635747,0.7746286460855223
+NASA,B0018,B0018,B0018.mat,93,0.7631036189749955,0.763360667094738
+NASA,B0018,B0018,B0018.mat,94,0.7577771480684934,0.7626189963528506
+NASA,B0018,B0018,B0018.mat,95,0.759268288206635,0.7631839255223236
+NASA,B0018,B0018,B0018.mat,96,0.7530196086484692,0.756045906803137
+NASA,B0018,B0018,B0018.mat,97,0.751247245774781,0.7534803571322424
+NASA,B0018,B0018,B0018.mat,98,0.7489816944965945,0.747761357165272
+NASA,B0018,B0018,B0018.mat,99,0.7431599902402238,0.7478190309637807
+NASA,B0018,B0018,B0018.mat,100,0.7465755983684312,0.7500858104198294
+NASA,B0018,B0018,B0018.mat,101,0.7387179740348331,0.7390522043699794
+NASA,B0018,B0018,B0018.mat,102,0.7403466800917733,0.7384370731000813
+NASA,B0018,B0018,B0018.mat,103,0.7374368704864981,0.7380548324736542
+NASA,B0018,B0018,B0018.mat,104,0.7313804864100185,0.7379351007918021
+NASA,B0018,B0018,B0018.mat,105,0.7872924322020762,0.7869432203535447
+NASA,B0018,B0018,B0018.mat,106,0.7817231049614924,0.7841393500674625
+NASA,B0018,B0018,B0018.mat,107,0.7752761106852413,0.776241162243871
+NASA,B0018,B0018,B0018.mat,108,0.7700079337204485,0.7662385289251065
+NASA,B0018,B0018,B0018.mat,109,0.7626867945054364,0.7639662358782672
+NASA,B0018,B0018,B0018.mat,110,0.7622025431993112,0.7625273758586719
+NASA,B0018,B0018,B0018.mat,111,0.7541400306782735,0.760204612309206
+NASA,B0018,B0018,B0018.mat,112,0.7521988452127043,0.7528267898555244
+NASA,B0018,B0018,B0018.mat,113,0.7493491870022229,0.7553357181431923
+NASA,B0018,B0018,B0018.mat,114,0.747182624023947,0.7479454258720353
+NASA,B0018,B0018,B0018.mat,115,0.7483621978461461,0.7487914898279703
+NASA,B0018,B0018,B0018.mat,116,0.7418756347033405,0.7404695365503028
+NASA,B0018,B0018,B0018.mat,117,0.7356946436346268,0.7402175334805111
+NASA,B0018,B0018,B0018.mat,118,0.7326049390746541,0.7359108551956184
+NASA,B0018,B0018,B0018.mat,119,0.7257291620112974,0.727580054976259
+NASA,B0018,B0018,B0018.mat,120,0.7691856089045949,0.7726047854617953
+NASA,B0018,B0018,B0018.mat,121,0.7581912240991063,0.7585110977817792
+NASA,B0018,B0018,B0018.mat,122,0.7512061203027418,0.7570517685937768
+NASA,B0018,B0018,B0018.mat,123,0.7483805757157408,0.75009024236307
+NASA,B0018,B0018,B0018.mat,124,0.7386439323920165,0.7447907215663253
+NASA,B0018,B0018,B0018.mat,125,0.743769166650052,0.7455166093746686
+NASA,B0018,B0018,B0018.mat,126,0.7378195670433692,0.7421163986905437
+NASA,B0018,B0018,B0018.mat,127,0.7346274160714679,0.7395803602615207
+NASA,B0018,B0018,B0018.mat,128,0.7349874882306875,0.7397300771035493
+NASA,B0018,B0018,B0018.mat,129,0.7287662042753458,0.7319622159878738
+NASA,B0018,B0018,B0018.mat,130,0.7303469925709389,0.7355202879135078
+NASA,B0018,B0018,B0018.mat,131,0.7229370201580871,0.7264785817022625

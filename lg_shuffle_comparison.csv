@@ -1,0 +1,13 @@
+scope,metric,baseline,shuffle_res,delta
+overall,row_rmse_percent,0.5999969950079271,0.5780921572976977,-0.02190483771022944
+overall,row_mae_percent,0.4570812915826408,0.4496421272639473,-0.007439164318693514
+overall,n_rows,713.0,713.0,0.0
+overall,n_cells,23.0,23.0,0.0
+Highly dynamic operation dataset,rmse_percent,0.7532742776564285,0.6747227014623233,-0.07855157619410524
+Highly dynamic operation dataset,mae_percent,0.5824148442471159,0.5376006367421964,-0.04481420750491949
+Highly dynamic operation dataset,n_rows,62.0,62.0,0.0
+Highly dynamic operation dataset,n_cells,2.0,2.0,0.0
+Path-dependent degradation dataset,rmse_percent,0.5833022898271223,0.5680325705715343,-0.015269719255587955
+Path-dependent degradation dataset,mae_percent,0.4451447627574527,0.441265126361257,-0.003879636396195707
+Path-dependent degradation dataset,n_rows,651.0,651.0,0.0
+Path-dependent degradation dataset,n_cells,21.0,21.0,0.0

@@ -1,0 +1,69 @@
+# Python runtime/cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local/editor files
+.claude/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+_write_test
+
+# Raw battery datasets and extracted archives
+*.mat
+*.zip
+*.xls
+*.xlsx
+CALCE_official_cylindrical/
+LG_datasets/
+SP1_*/
+
+# Large/generated caches and backup snapshots
+*.pkl
+*_cache.pkl
+tune_cache/
+failsafe_backup*/
+*_baseline_snapshot/
+
+# Legacy Torch checkpoints / local trained model dumps
+*.pt
+
+
+
+# Local development trials and redundant experiment outputs
+*_prediction_plot.svg
+*_overall_plot.svg
+*_scaler.npy
+*_shuffle_holdout_*
+*_shuffle_train70_*
+*_shuffle_sweep.csv
+*_shuffle_rsnn_pipeline.py
+*_shuffle_train.py
+calcetest*.py
+calcetest*_shuffle*
+test.py
+test2.py
+rsnn.py
+rsnnnasa_shuffledata.py
+calce_training_samples.csv
+calce_train70_*
+final_tune_sweep.*
+grandpipeline_*calce_SP20-*_test*
+highly_dynamic_plot.svg
+path_dependent_plot.svg
+row_level_plot.svg
+PHYSICS_LAYER_HANDOFF.md
+physics_layer_blueprint.txt
+physics_ablation_matrix.py
+calce_rmse_sweep.py
+lg_plots.py
+

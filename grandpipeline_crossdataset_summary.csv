@@ -1,0 +1,2 @@
+fold,overall_row_rmse_percent,balanced_dataset_rmse_percent,nasa_row_rmse_percent,calce_row_rmse_percent,lg_row_rmse_percent
+baseline,0.3698468239516827,0.3450939190073868,0.5359402525989602,0.46819065316522,0.031150851257980235

@@ -1,0 +1,15 @@
+{
+  "nasa_ridge": 50.0,
+  "calce_ridge": 10.0,
+  "n_seeds": 10.0,
+  "aggregator": "mean",
+  "coulomb_tol": 0.08,
+  "overall_row_rmse_percent": 0.36984682395168267,
+  "balanced_dataset_rmse_percent": 0.34509391900738645,
+  "nasa_row_rmse_percent": 0.5359402525989602,
+  "calce_row_rmse_percent": 0.46819065316521896,
+  "lg_row_rmse_percent": 0.031150851257980235,
+  "baseline_nasa_row_rmse_percent": 0.6209469452808902,
+  "baseline_calce_row_rmse_percent": 0.5542667707958394,
+  "baseline_overall_row_rmse_percent": 0.42846157094677984
+}
